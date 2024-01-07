@@ -1335,7 +1335,11 @@ mob/Admin3
 			M.stat_cap = 89
 			Admin_Logs+="<br>[usr]([usr.key]) uses Make_Genin (Rank Cap Update) on [M]."
 			///M.progress_cap = 540
+			/*var/obj/items/Clothing/Headband/hb = new
+			hb.Vill = "[M.Village]"
+			M.contents += hb*/
 			M.contents += new/obj/items/Clothing/Headband/
+			
 
 		Make_Chunin(mob/M in world)
 			set category = "Admin"

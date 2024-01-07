@@ -44,7 +44,10 @@ mob/proc
 		spawn()src.AutoAFK()
 		spawn() Age_Update()
 		addLightPlane()
-		if(!Headbands) mouse_over_pointer=image('Symbols.dmi',"None")
+		if(Headbands)
+			src.mouse_over_pointer=icon('Symbols.dmi',"[Headbands]")
+		else if(!Headbands)
+			src.mouse_over_pointer=icon('Symbols.dmi',"None")
 		src.LoginUpdate()
 		if(src.name==src.key)
 			src.name=src.Oname
@@ -179,7 +182,7 @@ mob/proc
 		notices = loginnotices
 		Log_Year=Year
 		see_in_dark=3
-		mouse_over_pointer=image('Symbols.dmi',"None")
+		mouse_over_pointer=icon('Symbols.dmi',"None")
 		character_box()
 		src.verbs+=/mob/LOL/verb/Send_File
 		spawn() Run()

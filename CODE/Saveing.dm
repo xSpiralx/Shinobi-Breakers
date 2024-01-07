@@ -62,7 +62,7 @@ mob
 					F["z"]>>src.z
 					src.loc = locate(src.x,src.y,src.z)
 					overlays-='afk.dmi'
-					overlays -= 'Swim.dmi'
+					overlays-= 'Swim.dmi'
 					overlays-='Bubble.dmi'
 					src.icon_state=""
 					pixel_y=0
