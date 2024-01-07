@@ -72,8 +72,7 @@ mob/proc/skin_show_tabs()
 	//src << browse_rsc('https://media.discordapp.net/attachments/429419579203387402/1103864342396547193/XxJeBgO.png')
 	//src << browse_rsc('https://media.discordapp.net/attachments/429419579203387402/1103863985834574004/oevFD3i.png')
 	//src << browse_rsc('https://media.discordapp.net/attachments/429419579203387402/1103870207589625906/symJgGW.png')
-	src << output("[skin_tab["html"]][skin_tab["alltab"]]</body><html>", "mainscreen.tabs")
-	//src << output("<html><body><img src='toptab1.png' alt='Top Tab Image'></body></html>", "mainscreen.tabs")
+	src << output("[skin_tab["html"]][skin_tab["alltab"]]</body><html>", "chat.tabs")
 
 
 

@@ -3257,8 +3257,8 @@ window "char_sheet"
 window "chat"
 	elem "chat"
 		type = MAIN
-		pos = 233,0
-		size = 1193x399
+		pos = 291,0
+		size = 883x592
 		anchor1 = -1,-1
 		anchor2 = -1,-1
 		background-color = #0b0f12
@@ -3270,12 +3270,15 @@ window "chat"
 		can-resize = false
 		is-pane = true
 		image-mode = tile
+		outer-size = 897x606
+		inner-size = 883x592
 	elem "button57"
 		type = BUTTON
-		pos = 664,153
+		pos = 354,346
 		size = 78x22
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Xerif\\Skin\\Toolbar Buttons\\Jutsu Application.png'
@@ -3283,49 +3286,54 @@ window "chat"
 	elem "label2"
 		type = LABEL
 		pos = 0,0
-		size = 1193x46
+		size = 883x46
 		anchor1 = 0,0
 		anchor2 = 100,0
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\toptab2.png'
 		image-mode = tile
 	elem "button62"
 		type = BUTTON
-		pos = 935,4
+		pos = 625,4
 		size = 78x22
 		anchor1 = 100,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Soto\\Skin\\Core.dmi'
 		command = "Core-Library"
 	elem "button46"
 		type = BUTTON
-		pos = 1019,4
+		pos = 709,4
 		size = 78x22
 		anchor1 = 100,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Soto\\Jutsu Library.dmi'
 		command = "Jutsu-Library"
 	elem "label4"
 		type = LABEL
-		pos = 0,351
-		size = 1193x48
+		pos = 0,544
+		size = 883x48
 		anchor1 = 0,100
 		anchor2 = 100,100
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\bottomtab2.png'
 		image-mode = tile
 	elem "edgeright"
 		type = LABEL
-		pos = 1181,0
-		size = 12x399
+		pos = 871,0
+		size = 12x592
 		anchor1 = 100,0
 		anchor2 = 100,100
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\edgeright.PNG'
@@ -3333,33 +3341,36 @@ window "chat"
 	elem "edgeleft"
 		type = LABEL
 		pos = 0,0
-		size = 12x399
+		size = 12x592
 		anchor1 = 0,0
 		anchor2 = 0,100
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\edgeleft.PNG'
 		image-mode = tile
 	elem "label3"
 		type = LABEL
-		pos = 0,351
+		pos = 0,544
 		size = 244x48
 		anchor1 = 0,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\bottomtab1.png'
 	elem "input"
 		type = BROWSER
-		pos = 12,368
+		pos = 12,561
 		size = 74x18
 		anchor1 = 0,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = ""
 	elem "inputbar"
 		type = INPUT
-		pos = 92,371
-		size = 751x12
+		pos = 92,564
+		size = 441x12
 		anchor1 = 0,100
 		anchor2 = 100,100
 		font-family = "Arial"
@@ -3369,38 +3380,42 @@ window "chat"
 		saved-params = ""
 	elem "label5"
 		type = LABEL
-		pos = 829,351
+		pos = 519,544
 		size = 364x48
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\bottomtab3.png'
 	elem "label6"
 		type = LABEL
-		pos = 1173,0
+		pos = 863,0
 		size = 20x46
 		anchor1 = 100,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\toptab3.png'
 	elem "button63"
 		type = BUTTON
-		pos = 1019,366
+		pos = 709,559
 		size = 78x22
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Soto\\Profile.dmi'
 		command = "edit-profile"
 	elem "button43"
 		type = BUTTON
-		pos = 1104,4
+		pos = 794,4
 		size = 78x22
 		anchor1 = 100,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Soto\\Unique.dmi'
@@ -3411,45 +3426,50 @@ window "chat"
 		size = 244x45
 		anchor1 = 0,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = ""
 		text = ""
 		image = 'Xerif\\Skin\\toptab1.png'
 	elem "rpbutton"
 		type = BUTTON
-		pos = 851,368
+		pos = 541,561
 		size = 74x18
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Xerif\\Skin\\buttonroleplay1.png'
 		command = "Roleplay"
 	elem "progressbutton"
 		type = BUTTON
-		pos = 934,366
+		pos = 624,559
 		size = 78x22
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Xerif\\Skin\\progressbutton.png'
 		command = "OwnProgression"
 	elem "specbutton"
 		type = BUTTON
-		pos = 851,4
+		pos = 541,4
 		size = 78x22
 		anchor1 = 100,0
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Xerif\\Skin\\specializationbutton.png'
 		command = "PublicSkillTree"
 	elem "button8"
 		type = BUTTON
-		pos = 1104,366
+		pos = 794,559
 		size = 78x22
 		anchor1 = 100,100
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "is-checked"
 		text = ""
 		image = 'Xerif\\Skin\\optionsbutton.png'
@@ -3457,7 +3477,7 @@ window "chat"
 	elem "output"
 		type = CHILD
 		pos = 16,45
-		size = 1161x308
+		size = 851x501
 		anchor1 = 0,0
 		anchor2 = 100,100
 		background-color = #0b0f13
@@ -3466,6 +3486,14 @@ window "chat"
 		right = "outputooc"
 		is-vert = true
 		splitter = 75
+	elem "tabs"
+		type = BROWSER
+		pos = 0,0
+		size = 244x45
+		anchor1 = 0,0
+		anchor2 = -1,-1
+		background-color = none
+		saved-params = ""
 
 window "crafting"
 	elem "crafting"
@@ -3602,6 +3630,7 @@ window "default"
 		size = 640x477
 		anchor1 = -1,-1
 		anchor2 = -1,-1
+		background-color = none
 		is-default = true
 		saved-params = "pos;size;is-minimized;is-maximized"
 		statusbar = false
@@ -3609,12 +3638,15 @@ window "default"
 		icon = 'Xerif\\ssoiconbig5.png'
 		macro = "macro"
 		menu = "menu"
+		outer-size = 656x536
+		inner-size = 640x477
 	elem "screenlabel"
 		type = LABEL
 		pos = 0,0
 		size = 640x477
 		anchor1 = 0,0
 		anchor2 = 100,100
+		background-color = none
 		is-visible = false
 		saved-params = ""
 		text = ""
@@ -3624,6 +3656,7 @@ window "default"
 		size = 640x477
 		anchor1 = 0,0
 		anchor2 = 100,100
+		background-color = none
 		is-default = true
 		saved-params = "splitter"
 		left = "titlescreen"
@@ -3648,10 +3681,11 @@ window "greybox"
 window "mainscreen"
 	elem "mainscreen"
 		type = MAIN
-		pos = 0,0
-		size = 1426x846
+		pos = 291,0
+		size = 2297x1268
 		anchor1 = -1,-1
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		titlebar = false
 		statusbar = false
@@ -3661,28 +3695,41 @@ window "mainscreen"
 		is-pane = true
 		macro = "macro"
 		menu = "menu"
+		outer-size = 2311x1282
+		inner-size = 2297x1268
+	elem "tabs"
+		type = BROWSER
+		pos = 1148,647
+		size = 392x67
+		anchor1 = 50,51
+		anchor2 = 67,56
+		background-color = none
+		saved-params = ""
+		auto-format = true
 	elem "toprack"
 		type = CHILD
-		pos = 704,0
-		size = 722x25
+		pos = 1131,0
+		size = 1166x38
 		anchor1 = 49,0
 		anchor2 = 100,3
+		background-color = none
 		saved-params = "splitter"
 		left = "topbuttons"
 		is-vert = false
 	elem "childtabs"
 		type = CHILD
-		pos = 713,432
-		size = 713x414
+		pos = 1148,647
+		size = 1149x621
 		anchor1 = 50,51
 		anchor2 = 100,100
+		background-color = none
 		saved-params = "splitter"
 		left = "chat"
 		is-vert = false
 	elem "childtabpanes"
 		type = CHILD
-		pos = 713,27
-		size = 713x405
+		pos = 1148,40
+		size = 1149x607
 		anchor1 = 50,3
 		anchor2 = 100,51
 		background-color = #0b0f12
@@ -3693,20 +3740,14 @@ window "mainscreen"
 		is-vert = true
 	elem "childwrapper"
 		type = CHILD
-		pos = -1,0
-		size = 713x846
+		pos = 0,0
+		size = 1148x1268
 		anchor1 = 0,0
 		anchor2 = 50,100
+		background-color = none
 		saved-params = "splitter"
 		left = "wrapper"
 		is-vert = false
-	elem "tabs"
-		type = BROWSER
-		pos = 713,432
-		size = 225x35
-		anchor1 = 50,51
-		anchor2 = 66,55
-		saved-params = ""
 
 window "mappane"
 	elem "mappane"
@@ -3838,6 +3879,8 @@ window "outputall"
 		can-minimize = false
 		can-resize = false
 		is-pane = true
+		outer-size = 814x262
+		inner-size = 800x248
 	elem "output"
 		type = OUTPUT
 		pos = 0,0
@@ -4282,6 +4325,7 @@ window "tabpane"
 		size = 480x480
 		anchor1 = -1,-1
 		anchor2 = -1,-1
+		background-color = none
 		saved-params = "pos;size;is-minimized;is-maximized"
 		titlebar = false
 		statusbar = false
@@ -4290,6 +4334,8 @@ window "tabpane"
 		can-resize = false
 		is-pane = true
 		image-mode = tile
+		outer-size = 494x494
+		inner-size = 480x480
 	elem "info1"
 		type = INFO
 		pos = 0,0
@@ -4613,10 +4659,7 @@ window "wrapper"
 		can-resize = false
 		is-pane = true
 		outer-size = 494x494
-		outer-pos = 291,0
 		inner-size = 480x480
-		inner-pos = 7,7
-		screen-size = 1440x860
 	elem "child1"
 		type = CHILD
 		pos = 12,13
@@ -5046,10 +5089,7 @@ window "yutput"
 		can-minimize = false
 		can-resize = false
 		outer-size = 654x407
-		outer-pos = 291,0
 		inner-size = 640x393
-		inner-pos = 7,7
-		screen-size = 1440x860
 	elem "title"
 		type = LABEL
 		pos = 16,16
@@ -5188,10 +5228,7 @@ window "window31"
 		can-minimize = false
 		can-resize = false
 		outer-size = 598x452
-		outer-pos = 291,0
 		inner-size = 584x438
-		inner-pos = 7,7
-		screen-size = 1440x860
 	elem "Grid"
 		type = GRID
 		pos = 16,56
