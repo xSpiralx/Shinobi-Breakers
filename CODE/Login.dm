@@ -100,6 +100,7 @@ mob/Login()
 	//if(ckey. IP=[src].IP del)
 	//if(ckey. IP=[src].IP del)
 	LoginScreen=0
+	
 
 	for(var/obj/grid_object2/g in src)
 		del(g)
@@ -124,7 +125,7 @@ mob/Login()
 	skin_show_tabs()
 	skin_show_input()
 	button_show_input()
-
+	MapZoom()
 	title_screen()
 	IPlog()
 	src.density=1

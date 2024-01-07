@@ -15,6 +15,21 @@ mob/verb/resized()
 	if(appearance_box)
 		appearance_box.center(src)
 
+/*mob/var
+	TILE_WIDTH = 32
+	TILE_HEIGHT = 32
+	MAX_TILES = 600
+	var/area = 1#INF
+	var/zoom = 0
+	var/view_width, view_height
+	while(area>=MAX_TILES)
+		zoom += 1
+		view_width = ceil(screen_width / TILE_WIDTH / zoom)
+		view_height = ceil(screen_height / TILE_HEIGHT / zoom)
+		if(!(view_width%2)) view_width += 1
+		if(!(view_height%2)) view_height += 1
+		area = view_width * view_height*/
+
 mob/verb/closeProfile()
 	set hidden=1
 	src<<browse(null,"window=Profile.ProfileBrowse")
