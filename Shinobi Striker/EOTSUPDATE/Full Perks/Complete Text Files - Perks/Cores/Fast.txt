@@ -1,0 +1,20 @@
+Fast:
+This person is fast, allowing them to both accelerate and maintain an above average speed.
+Note: This perk adds one tile to your OOC movement range.
+
+
+
+Very Fast: 
+This person is very fast.  This allows them to accelerate quickly, and maintain a fast pace.
+Note: This perk adds two tiles to your OOC movement range.
+
+
+Extremely Fast: 
+This person is extremely fast.  They can accelerate very quickly, and run as fast as a cheetah.  However, as they reach their highest speeds they become tunnel-visioned, and may have trouble keeping eyes on their target.
+Note: This perk adds three tiles to your OOC movement range.
+
+
+
+Bullet: 
+This person is insanely fast.  They move like a bullet fired from a gun.  They can reach you in a second, moving at nigh-shunshin level speeds with simple ease.  They suffer from tunnel-vision if they reach their peak.
+Note: This perk adds four tiles to your OOC movement range.

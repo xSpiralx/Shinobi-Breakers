@@ -1,0 +1,122 @@
+////////////////////////////////////
+////////////////////////////////////
+/////////Ioca Coded Turfs///////////
+////////////////////////////////////
+////////////////////////////////////
+
+turf/Building/AmegakureBuildings
+	Light_Grey_Left
+		icon='amebuildings.dmi'
+		icon_state="left1"
+	Light_Grey_Bottom_One
+		icon='amebuildings.dmi'
+		icon_state="bottom1"
+	Light_Grey_Gate
+		icon='amebuildings.dmi'
+		icon_state="gate"
+	Light_Grey_Right
+		icon='amebuildings.dmi'
+		icon_state="right1"
+	Light_Grey_Bottom_Two
+		icon='amebuildings.dmi'
+		icon_state="bottom2"
+	Light_Grey_Left_Border
+		icon='amebuildings.dmi'
+		icon_state="leftborder"
+	Light_Grey_Center_Border
+		icon='amebuildings.dmi'
+		icon_state="centerborder"
+	Light_Grey_Right_Border
+		icon='amebuildings.dmi'
+		icon_state="rightborder"
+	Light_Grey_Bottom_Left_Border
+		icon='amebuildings.dmi'
+		icon_state="bottomleftborder"
+	Light_Grey_Bottom_Border
+		icon='amebuildings.dmi'
+		icon_state="bottomborder"
+	Light_Grey_Bottom_Right_Border
+		icon='amebuildings.dmi'
+		icon_state="bottomrightborder"
+	Light_Grey_Bottom_Left
+		icon='amebuildings.dmi'
+		icon_state="bottomleft"
+	Light_Grey_Bottom_Center
+		icon='amebuildings.dmi'
+		icon_state="bottomcenter"
+	Light_Grey_Bottom_Right
+		icon='amebuildings.dmi'
+		icon_state="bottomright"
+	Grey_Left
+		icon='amebuildingsalt.dmi'
+		icon_state="left"
+	Grey_Bottom_One
+		icon='amebuildingsalt.dmi'
+		icon_state="bottom1"
+	Grey_Right
+		icon='amebuildingsalt.dmi'
+		icon_state="right"
+	Grey_Bottom_Two
+		icon='amebuildingsalt.dmi'
+		icon_state="bottom2"
+	Grey_Left_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="leftborder"
+	Grey_Center_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="centerborder"
+	Grey_Right_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="rightborder"
+	Grey_Bottom_Left_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="bottomrightborder"
+	Grey_Bottom_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="bottomborder"
+	Grey_Bottom_Right_Border
+		icon='amebuildingsalt.dmi'
+		icon_state="bottomrightborder"
+	Tower_One
+		icon='amebuildingtower.dmi'
+		icon_state="1"
+	Tower_Two
+		icon='amebuildingtower.dmi'
+		icon_state="2"
+	Tower_Three
+		icon='amebuildingtower.dmi'
+		icon_state="b"
+	Pole_One
+		icon='amebuildingtower.dmi'
+		icon_state="e1"
+	Pole_Two
+		icon='amebuildingtower.dmi'
+		icon_state="e2"
+	Pole_Three
+		icon='amebuildingtower.dmi'
+		icon_state="e3"
+	Steel_Wall_Left
+		icon='amebuildingtower.dmi'
+		icon_state="misc1"
+	Steel_Wall_Center
+		icon='amebuildingtower.dmi'
+		icon_state="misc2"
+	Steel_Wall_Right
+		icon='amebuildingtower.dmi'
+		icon_state="misc3"
+	Windows_One
+		icon='amebuildingwindows.dmi'
+		icon_state="1"
+	Windows_Two
+		icon='amebuildingwindows.dmi'
+		icon_state="2"
+
+////////////////////////////////////////////////////
+////////////Skipped amedoor.dmi/////////////////////
+////////////  and amedoor1.dmi /////////////////////
+///////// for reserved objects? ////////////////////
+////////////////////////////////////////////////////
+
+
+
+

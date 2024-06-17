@@ -1,0 +1,13 @@
+Rookie Blacksmith: 
+This individual is a rookie blacksmith.  They are capable of crafting the most basic items using the minerals found throughout the world.
+
+
+
+Veteran Blacksmith: 
+This individual is a veteran blacksmith.  They are skilled in crafting more advanced items items using the minerals found throughout the world.
+
+ 
+
+
+Master Blacksmith: 
+This individual is a highly skilled, and highly trained smith.  They are capable of crafting the most difficult items, and even enchanting them with basic magical properties.

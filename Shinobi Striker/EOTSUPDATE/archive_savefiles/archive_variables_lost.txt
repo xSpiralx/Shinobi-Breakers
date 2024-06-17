@@ -1,0 +1,6 @@
+//Orphan savefile buffer 'layer' found on Wed May 24 15:46:03 2023
+layer = 93000000
+//End of exported data.
+//Orphan savefile buffer 'starting_fish' found on Fri Aug 25 02:23:48 2023
+starting_fish = 16
+//End of exported data.

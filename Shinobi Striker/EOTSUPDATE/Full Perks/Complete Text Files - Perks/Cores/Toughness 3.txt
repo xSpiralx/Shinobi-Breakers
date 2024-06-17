@@ -1,0 +1,13 @@
+Tough: This person is tough.  They have a strong frame that is able to withstand blows that would usually render them unconscious, or physical strikes that would put them out of commission.
+
+
+
+
+Unbreakable: 
+This person's frame is hardened by battle.  They are able to withstand blows that would normally render them unconscious, physical strikes that would uncommission them, and are unaffected by projectile hits in non-critical regions.
+
+
+
+
+Juggernaut: 
+This person is a juggernaut.  They are able to withstand even the toughest blows, able to shrug them off and carry on.  Any physical attacks will prove ineffective against this target.  In addition to this, projectile attacks and sword-based blows in non-crtitical regions are also ineffective.

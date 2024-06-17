@@ -1,0 +1,12 @@
+Kenjutsu Initiate: This person is an initiate when it comes to the blade.  They are able to preform basic fighting styles, and contend with simple swordplay.
+
+Trained Kenjutsu: 
+As a trained kenjutsu specialist, this individual can operate their sword as an extension of their arm.  They are able to preform and contend with the more advanced styles of swordplay.
+
+
+
+Kenjutsu Veteran: 
+As a trained veteran of the blade, this individual can operate their sword as though it were an extension of their body.  They can deflect incoming projectiles with ease, and are able to effortlessly preform the most advanced styles of swordplay.
+
+Kenjutsu Master: 
+This person's sword is an extension of their body.  They are able to utilize the blade as though it were attached to their arm, enabling use of chakra rending strikes.  They are so masterful that even projectiles can be struck out of the air with their blade.

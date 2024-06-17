@@ -1,0 +1,56 @@
+21-06-23 01:36:guest1867637001 is continuing a character
+21-06-23 01:37: World Started
+21-06-23 01:38:lordcurrency is continuing a character
+21-06-23 01:38:lordcurrency is about to load
+21-06-23 01:38:lordcurrency is loading
+21-06-23 01:38:lordcurrency is loaded
+21-06-23 14:36: World Started
+21-06-23 14:36:lordcurrency is continuing a character
+21-06-23 14:36:lordcurrency is about to load
+21-06-23 14:36:lordcurrency is loading
+21-06-23 14:36:lordcurrency is loaded
+21-06-23 14:53: World Started
+21-06-23 14:52:lordcurrency is continuing a character
+21-06-23 14:52:lordcurrency is about to load
+21-06-23 14:52:lordcurrency is loading
+21-06-23 14:52:lordcurrency is loaded
+21-06-23 15:02: World Started
+21-06-23 15:03:lordcurrency is continuing a character
+21-06-23 15:03:lordcurrency is about to load
+21-06-23 15:03:lordcurrency is loading
+21-06-23 15:03:lordcurrency is loaded
+21-06-23 15:10: World Started
+21-06-23 15:09:lordcurrency is continuing a character
+21-06-23 15:09:lordcurrency is about to load
+21-06-23 15:09:lordcurrency is loading
+21-06-23 15:09:lordcurrency is loaded
+21-06-23 15:16: World Started
+21-06-23 15:16:lordcurrency is continuing a character
+21-06-23 15:16:lordcurrency is about to load
+21-06-23 15:16:lordcurrency is loading
+21-06-23 15:16:lordcurrency is loaded
+21-06-23 15:33: World Started
+21-06-23 15:33:lordcurrency is continuing a character
+21-06-23 15:33:lordcurrency is about to load
+21-06-23 15:33:lordcurrency is loading
+21-06-23 15:33:lordcurrency is loaded
+21-06-23 16:17: World Started
+21-06-23 16:20:lordcurrency is continuing a character
+21-06-23 16:20:lordcurrency is about to load
+21-06-23 16:20:lordcurrency is loading
+21-06-23 16:20:lordcurrency is loaded
+21-06-23 16:24: World Started
+21-06-23 16:25:lordcurrency is continuing a character
+21-06-23 16:25:lordcurrency is about to load
+21-06-23 16:25:lordcurrency is loading
+21-06-23 16:25:lordcurrency is loaded
+21-06-23 16:27: World Started
+21-06-23 16:28:lordcurrency is continuing a character
+21-06-23 16:28:lordcurrency is about to load
+21-06-23 16:28:lordcurrency is loading
+21-06-23 16:28:lordcurrency is loaded
+21-06-23 16:30: World Started
+21-06-23 16:30:lordcurrency is continuing a character
+21-06-23 16:30:lordcurrency is about to load
+21-06-23 16:30:lordcurrency is loading
+21-06-23 16:30:lordcurrency is loaded
