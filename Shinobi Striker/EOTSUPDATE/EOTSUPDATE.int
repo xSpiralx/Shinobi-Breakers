@@ -3,20 +3,20 @@
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 0.750
 LAST_COMPILE_TIME: 1718677371
-PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
 DIR: AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation Icons\BuildingsOutside Icons\Clothing IssacAdd Map Savior Skin Soto Xerif Xerif\Skin 
+PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
 AUTO_FILE_DIR: ON
 PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
 PACKAGE_DME_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_src.zip
 LAST_COMPILE_VERSION: 515.1640
-PACKAGE_DME_START: 
 PACKAGE_TYPE: 0
+PACKAGE_DME_START: 
+WINDOW: Xerif\Skin\Creation.dm;CODE\Login.dm;CODE\Admin.dm;Map\Novamap.dmm;Map\RoSWorld.dmm;IssacAdd\Shinobi Origins Map.dmm;CODE\NPCs.dm;CODE\Clothes.dm;Soto\NewPerkTree_-_Copy.dm;CODE\Shop.dm;Soto\AllPerks.dmi;Soto\NewCoreLibrary.dm;Soto\NewSquad.dm;Map\bongmap.dmm
 PACKAGE_DME_INFO: 
-WINDOW: Xerif\Skin\Creation.dm;CODE\Login.dm;CODE\Admin.dm;Map\Novamap.dmm;Map\RoSWorld.dmm;IssacAdd\Shinobi Origins Map.dmm;CODE\NPCs.dm;CODE\Clothes.dm;Soto\NewPerkTree_-_Copy.dm;CODE\Shop.dm;Soto\AllPerks.dmi;Soto\NewCoreLibrary.dm;Soto\NewSquad.dm;Creation\Creation_ClanProc.dm;Savior\CodyWarpers.dm;EOTSUPDATE.dme;Creation\Creation_Procs.dm;Map\bongmap.dmm
 FILE: Map\bongmap.dmm
 MAP_INSTANCE_MODE: copy
-PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Users\18108\Desktop\NindoHF.zip
+PACKAGE_DME_DEMO: 
 */
 // END_INTERNALS
