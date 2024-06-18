@@ -2,7 +2,7 @@
 /*
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 0.250
-LAST_COMPILE_TIME: 1718728520
+LAST_COMPILE_TIME: 1718740172
 PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
 DIR: AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation Icons Icons\BuildingsOutside Icons\Clothing IssacAdd IssacAdd\backup Map Rehaul Savior Sh Skin Soto Soto\Skin Soto\TreeImages Spiral warring state map files warring state map files\NewIcons Xerif Xerif\Jutsu Xerif\Skin 
 AUTO_FILE_DIR: ON
@@ -14,7 +14,7 @@ PACKAGE_DME_START:
 PACKAGE_TYPE: 0
 PACKAGE_DME_INFO: 
 WINDOW: Map\Novamap.dmm;Map\RoSWorld.dmm;Map\bongmap.dmm;warring state map files\NewIcons\intermap connections.dm;Xerif\Skin\Skin.dm;Burrency\backup\2023 Warring Map.dmm;IssacAdd\Shinobi Origins Map.dmm
-FILE: Map\bongmap.dmm
+FILE: warring state map files\NewIcons\intermap connections.dm
 MAP_INSTANCE_MODE: copy
 PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Users\18108\Desktop\NindoHF.zip
