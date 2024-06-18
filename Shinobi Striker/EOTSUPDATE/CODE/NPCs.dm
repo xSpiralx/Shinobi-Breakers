@@ -1017,7 +1017,7 @@ mob/NPC
 									usr.addShopItem(A,10)
 									goto startClothes
 						if("Scrolls")
-							var/O=usr.CustomInput("What would you like to buy?","Shopkeep",list("Empty Scroll (10 Ryo)","Weapon Scroll (200 Ryo)","Cancel"))
+							var/O=usr.CustomInput("What would you like to buy?","Shopkeep",list("Empty Scroll (10 Ryo)"/*"Weapon Scroll (200 Ryo)"*/,"Cancel"))
 							if(!O) return
 							switch(O:name)
 								if("Empty Scroll (10 Ryo)")

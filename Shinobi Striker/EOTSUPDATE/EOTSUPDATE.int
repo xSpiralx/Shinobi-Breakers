@@ -2,9 +2,9 @@
 /*
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 0.250
-LAST_COMPILE_TIME: 1718716062
+LAST_COMPILE_TIME: 1718718716
 PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
-DIR: AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation Icons\BuildingsOutside Icons\Clothing IssacAdd IssacAdd\backup Map Savior Sh Skin Soto Soto\TreeImages Spiral warring state map files warring state map files\NewIcons Xerif Xerif\Skin 
+DIR: AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation Icons Icons\BuildingsOutside Icons\Clothing IssacAdd IssacAdd\backup Map Rehaul Savior Sh Skin Soto Soto\Skin Soto\TreeImages Spiral warring state map files warring state map files\NewIcons Xerif Xerif\Skin 
 AUTO_FILE_DIR: ON
 PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
@@ -13,8 +13,8 @@ LAST_COMPILE_VERSION: 515.1640
 PACKAGE_DME_START: 
 PACKAGE_TYPE: 0
 PACKAGE_DME_INFO: 
-WINDOW: Xerif\Skin\Creation.dm;CODE\Login.dm;CODE\Admin.dm;Map\Novamap.dmm;Map\RoSWorld.dmm;IssacAdd\Shinobi Origins Map.dmm;Soto\AllPerks.dmi;Map\bongmap.dmm;Savior\CodyWarpers.dm;warring state map files\NewIcons\intermap connections.dm;Xerif\Skin\Skin.dm;Burrency\backup\2023 Warring Map.dmm
-FILE: Map\bongmap.dmm
+WINDOW: Xerif\Skin\Creation.dm;CODE\Login.dm;CODE\Admin.dm;Map\Novamap.dmm;Map\RoSWorld.dmm;IssacAdd\Shinobi Origins Map.dmm;Soto\AllPerks.dmi;Map\bongmap.dmm;Savior\CodyWarpers.dm;warring state map files\NewIcons\intermap connections.dm;Xerif\Skin\Skin.dm;Burrency\backup\2023 Warring Map.dmm;Burrency\Weapons Update.dm;Burrency\updated_weapons.dm;Burrency\Cards.dm;Burrency\BurrProcs.dm;Burrency\Burrency.dm;Burrency\Burr Admin.dm;CODE\Weapons.dm;Cody\New_NPCs.dm;Icons\NPCs.dmi;CODE\NPCs.dm;CODE\charactersheets.dm;CODE\ExtraSystems.dm
+FILE: Xerif\Skin\Creation.dm
 MAP_INSTANCE_MODE: copy
 PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Users\18108\Desktop\NindoHF.zip

@@ -17897,3 +17897,351 @@ Initiating Begin()
 ARCHIVE: Loaded NPCs.
 Uzushio Resource Broker
 ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): New(Spiral (/mob))
+Spiral (/mob): character box()
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhoto (/mob/proc/updateBingoBookPhoto)
+  source file: Soto/NewBingoBook.dm,113
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhoto(2)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhotoA (/mob/proc/updateBingoBookPhotoA)
+  source file: Soto/NewBingoBook.dm,136
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhotoA(4)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhotoB (/mob/proc/updateBingoBookPhotoB)
+  source file: Soto/NewBingoBook.dm,160
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhotoB(1)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): show()
+Spiral (/mob): character box()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): expand stats(Spiral (/mob))
+Spiral (/mob): character box()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): New(Spiral (/mob))
+Spiral (/mob): character box()
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhoto (/mob/proc/updateBingoBookPhoto)
+  source file: Soto/NewBingoBook.dm,113
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhoto(2)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhotoA (/mob/proc/updateBingoBookPhotoA)
+  source file: Soto/NewBingoBook.dm,136
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhotoA(4)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot read null.icon
+proc name: updateBingoBookPhotoB (/mob/proc/updateBingoBookPhotoB)
+  source file: Soto/NewBingoBook.dm,160
+  usr: (src)
+  src: Spiral (/mob)
+  src.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Spiral (/mob): updateBingoBookPhotoB(1)
+Spiral (/mob): LoginProc()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): show()
+Spiral (/mob): character box()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (163,66,7) (/turf/Konoha/Floor/Stone3)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): expand stats(Spiral (/mob))
+Spiral (/mob): character box()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Cannot read null.learn_req
+proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
+  source file: Xerif/Jutsu/Progress.dm,324
+  usr: null
+  src: Natural Trait (Hidden) (/obj/progress_card)
+  src.loc: Spiral (/mob)
+  call stack:
+Natural Trait (Hidden) (/obj/progress_card): update learnreq(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+Natural Trait (Hidden) (/obj/progress_card): progress(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(4)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()

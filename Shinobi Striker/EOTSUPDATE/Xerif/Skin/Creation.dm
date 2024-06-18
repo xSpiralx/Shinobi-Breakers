@@ -56,7 +56,7 @@ mob/proc
 		reset_mision_check()
 		update_jutsu()
 		ShinobiKitUpdate()
-		spawn(20)src.DelOldWeap()
+		/*spawn(20)src.DelOldWeap()*/
 		WeaponsCheck()
 		login_box()
 		character_box()

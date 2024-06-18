@@ -320,13 +320,13 @@ mob/Admin3/verb
 		*/
 
 
-mob/verb/DelOldWeap()
+/*mob/verb/DelOldWeap()
 	set hidden = 1
 	set category = "Commands"
 	WeaponsCheck()  // Call WeaponsCheck() proc before the loop
 	for(var/obj/items/Weapon/A in usr.contents)
 		if (istype(A, /obj/items/Weapon) && !A.NewSystem)
-			usr.contents -= A
+			usr.contents -= A */
 
 
 

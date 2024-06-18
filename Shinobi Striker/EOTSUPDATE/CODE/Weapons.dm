@@ -19,13 +19,6 @@ obj/items/Poisons
 
 
 
-
-
-
-
-
-
-
 obj/items/Weapon
 	var/shuriken=1
 
