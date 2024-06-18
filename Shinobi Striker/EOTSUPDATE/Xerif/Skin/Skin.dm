@@ -136,9 +136,9 @@ function replace(v) {
 "},
 
 "ictab" = {"
-<img style='cursor:default; position:absolute; left:0px; top:0px;' src=https://i.postimg.cc/vB2tBT5Q/toptab1.png>
-<img style='cursor:pointer; position:absolute; left:1px; top:1px;' src=https://media.discordapp.net/attachments/429419579203387402/1103862633754538054/t16Wq33.png onmouseover=this.src='https://media.discordapp.net/attachments/429419579203387402/1103870364687282259/RvFWirq.png' onmouseout=this.src='https://media.discordapp.net/attachments/429419579203387402/1103862633754538054/t16Wq33.png' onclick=window.location='byond://?value=alltab'>
-<img style='cursor:pointer; position:absolute; left:152px; top:1px;' src=https://media.discordapp.net/attachments/429419579203387402/1103864342396547193/XxJeBgO.png onmouseover=this.src='https://media.discordapp.net/attachments/429419579203387402/1103863985834574004/oevFD3i.png' onmouseout=this.src='https://media.discordapp.net/attachments/429419579203387402/1103864342396547193/XxJeBgO.png' onclick=window.location='byond://?value=ooctab'>
+<img style='cursor:default; position:absolute; left:0px; top:0px;' src=https://i.postimg.cc/gjYfTD86/buttonic1.png>
+<img style='cursor:pointer; position:absolute; left:1px; top:1px;' src=https://i.postimg.cc/gjYfTD86/buttonic1.png onmouseover=this.src='https://i.postimg.cc/gjYfTD86/buttonic1.png' onmouseout=this.src='https://i.postimg.cc/gjYfTD86/buttonic1.png' onclick=window.location='byond://?value=alltab'>
+<img style='cursor:pointer; position:absolute; left:152px; top:1px;' src=https://i.postimg.cc/gjYfTD86/buttonic1.png onmouseover=this.src='https://i.postimg.cc/gjYfTD86/buttonic1.png' onmouseout=this.src='https://i.postimg.cc/gjYfTD86/buttonic1.png' onclick=window.location='byond://?value=ooctab'>
 "},
 
 "ooctab" = {"
@@ -174,7 +174,7 @@ function replace(v) {
 "},
 
 "buttonsay" = {"
-<img style='cursor:pointer; position:absolute; left:0px; top:0px;' src=https://media.discordapp.net/attachments/429419579203387402/1103865111325720616/2IXKYxK.png onmouseover=this.src='https://media.discordapp.net/attachments/429419579203387402/1103866299186155530/7cDFkNt.png' onmouseout=this.src='https://media.discordapp.net/attachments/429419579203387402/1103865111325720616/2IXKYxK.png' onclick=window.location='byond://?value=buttonroleplay'>
+<img style='cursor:pointer; position:absolute; left:0px; top:0px;' src=https://i.postimg.cc/fbVYQtY2/buttonsay1.png onmouseover=this.src='https://i.postimg.cc/fbVYQtY2/buttonsay1.png' onmouseout=this.src='https://i.postimg.cc/fbVYQtY2/buttonsay1.png' onclick=window.location='byond://?value=buttonroleplay'>
 "},
 
 "buttonroleplay" = {"
