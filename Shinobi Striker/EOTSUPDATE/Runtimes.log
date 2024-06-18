@@ -16462,3 +16462,1422 @@ Initiating Begin()
 ARCHIVE: Loaded NPCs.
 Uzushio Resource Broker
 ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+runtime error: Cannot read null.squad
+proc name: New (/woodcutting/New)
+  source file: Soto/automated_missions/lumber_mission.dm,22
+  usr: null
+  src: Woodcutting Mission (/woodcutting)
+  call stack:
+Woodcutting Mission (/woodcutting): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/delivery/New)
+  source file: Soto/automated_missions/delivery_mission.dm,79
+  usr: null
+  src: Delivery Mission (/delivery)
+  call stack:
+Delivery Mission (/delivery): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/mining/New)
+  source file: Soto/automated_missions/mine_mission.dm,21
+  usr: null
+  src: Mining Mission (/mining)
+  call stack:
+Mining Mission (/mining): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+Warning: further proc crash messages are being suppressed to prevent overload...
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+Sat Jun 15 11:37:30 2024
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+runtime error: Cannot read null.squad
+proc name: New (/woodcutting/New)
+  source file: Soto/automated_missions/lumber_mission.dm,22
+  usr: null
+  src: Woodcutting Mission (/woodcutting)
+  call stack:
+Woodcutting Mission (/woodcutting): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/delivery/New)
+  source file: Soto/automated_missions/delivery_mission.dm,79
+  usr: null
+  src: Delivery Mission (/delivery)
+  call stack:
+Delivery Mission (/delivery): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/mining/New)
+  source file: Soto/automated_missions/mine_mission.dm,21
+  usr: null
+  src: Mining Mission (/mining)
+  call stack:
+Mining Mission (/mining): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+Warning: further proc crash messages are being suppressed to prevent overload...
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+Sun Jun 16 20:44:13 2024
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+runtime error: Cannot read null.squad
+proc name: New (/woodcutting/New)
+  source file: Soto/automated_missions/lumber_mission.dm,22
+  usr: null
+  src: Woodcutting Mission (/woodcutting)
+  call stack:
+Woodcutting Mission (/woodcutting): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/delivery/New)
+  source file: Soto/automated_missions/delivery_mission.dm,79
+  usr: null
+  src: Delivery Mission (/delivery)
+  call stack:
+Delivery Mission (/delivery): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/mining/New)
+  source file: Soto/automated_missions/mine_mission.dm,21
+  usr: null
+  src: Mining Mission (/mining)
+  call stack:
+Mining Mission (/mining): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+Jutsu Archive (/archive): load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  source file: Soto/automated_missions/fish_mission.dm,21
+Warning: further proc crash messages are being suppressed to prevent overload...
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Uzushio Resource Broker
+ARCHIVE: Loaded PayRates.
+Mon Jun 17 05:04:53 2024
+BYOND Error: failed to certify SapphireStrawberry from ip 131.196.243.182, origin (null)

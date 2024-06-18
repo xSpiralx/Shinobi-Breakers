@@ -1,4 +1,4 @@
-/mob/proc/incentive_system()
+/*/mob/proc/incentive_system()
 	return
 	if(archive.incentive_villages)
 		if(archive.incentive_villages.Find(Village))
@@ -14,4 +14,4 @@
 			src << output("You've been rewarded [bonus] point(s) and genin rank as part of an incentive.", "outputall.output")
 
 			if(character_box)
-				character_box.update_stats(src)
+				character_box.update_stats(src)*/

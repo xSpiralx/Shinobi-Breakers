@@ -86,7 +86,7 @@ mob/proc/PerkRankCheck(perk)
 */
 
 
-/mob/var/OriginsBonus = 0
+/*/mob/var/OriginsBonus = 0
 mob/verb
     Starting_Incentive()
         set category = "Commands"
@@ -100,7 +100,7 @@ mob/verb
                 else
                     src << "You've selected to not get your Starting Incentive or did not type 'I Agree' exactly as shown."
         else
-            src << "You've got too much PP to get your bonus"
+            src << "You've got too much PP to get your bonus" */
 
 mob/var/ConfirmedClan = FALSE
 

@@ -77,7 +77,7 @@ proc/rename(old_path, new_path)
     var/ooc_color = "#009966"
     var/admin_color = "#E6C208"
     var/DRrate = 0.45
-    var/list/incentive_villages = list("Sunagakure", "Kirigakure")
+    var/list/incentive_villages = list("")
     var/incentive_large_bonus = 20
     var/incentive_small_bonus = 25
     var/list/bounty_list = list()

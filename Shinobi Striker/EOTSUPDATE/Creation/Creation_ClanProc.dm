@@ -1,7 +1,7 @@
 //Clan rolling is long and often changed. Breaking it out.
 mob/proc
 	ClanWtf()
-		if(src.Village=="Sunagakure")
+		/*if(src.Village=="Sunagakure")*/
 		/*	if(archive.hyuuga_on) switch(custom_bigalert1(hyuuga_clan_info, "All members born into this clan possess the Byakugan, a kekkei genkai that gives them extended fields of vision and the ability to see through solid objects and even the chakra circulatory system, amongst other things.", 'clan_hyuuga.png', "Would you like to be born as a member of the Hyuuga clan?"))
 				if("yes")
 					src.Hyuuga=1
@@ -12,32 +12,33 @@ mob/proc
 						src << "You are born in the Hyuuga Branch Family."
 						src.overlays += 'Mark.dmi'
 						src.Mark=1*/
-			if(archive.aburame_on) switch(custom_bigalert1(aburame_clan_info, "At birth, members of this clan are offered to several special breed of insects as a nest, residing just under their host's skin. These insects will then live in symbiosis with their host from that point on. Because of this, its members are characterised by their use of insects as weapons.", 'clan_aburame.png', "Would you like to be born as a member of the Aburame clan?"))
+			/*if(archive.aburame_on) switch(custom_bigalert1(aburame_clan_info, "At birth, members of this clan are offered to several special breed of insects as a nest, residing just under their host's skin. These insects will then live in symbiosis with their host from that point on. Because of this, its members are characterised by their use of insects as weapons.", 'clan_aburame.png', "Would you like to be born as a member of the Aburame clan?"))
 				if("yes")
 					src.Aburame=1
 					src.name="Aburame, [name]"
-					return
-			if(archive.nara_on) switch(custom_bigalert1(nara_clan_info, "The Nara Clan is known for their intelligence, and special ninjutsu that entails the manipulation of shadows through the use of Yin Release.", 'clan_nara.png', "Would you like to be born as a member of the Nara clan?"))
+					return*/
+			/*if(archive.nara_on) switch(custom_bigalert1(nara_clan_info, "The Nara Clan is known for their intelligence, and special ninjutsu that entails the manipulation of shadows through the use of Yin Release.", 'clan_nara.png', "Would you like to be born as a member of the Nara clan?"))
 				if("yes")
 					src.Nara=1
 					src.name="Nara, [name]"
-					return
+					return*/
 		/*if(src.Village=="Iwagakure")
+			if(archive.inuzuka_on) switch(custom_bigalert1(inuzuka_clan_info, "You get a good boy, congrats.", 'clan_inuzuka.png', "Would you like to be born as a member of the Inuzuka clan?"))
+				if("yes")
+					src.Inuzuka=1
+					src.name="Inuzuka, [name]"
+					return
+			if(archive.akimichi_on) switch(custom_bigalert1(akimichi_clan_info, "You are a mighty titan amongst shinobi, enjoy!", 'clan_akimichi.png', "Would you like to be born as a member of the Akimichi clan?"))
+				if("yes")
+					src.Akimichi=1
+					src.name="Akimichi, [name]"
+					return
+		if(src.Village=="Amegakure")
 			if(archive.hyuuga_on) switch(custom_bigalert1(hyuuga_clan_info, "All members born into this clan possess the Byakugan, a kekkei genkai that gives them extended fields of vision and the ability to see through solid objects and even the chakra circulatory system, amongst other things.", 'clan_hyuuga.png', "Would you like to be born as a member of the Hyuuga clan?"))
 				if("yes")
 					src.Hyuuga=1
 					src.name="Hyuuga, [name]"
-					if(prob(20))
-						src << "You are born in the Hyuuga Main Family."
-					else
-						src << "You are born in the Hyuuga Branch Family."
-						src.overlays += 'Mark.dmi'
-						src.Mark=1*/
-			/* if(archive.inuzuka_on) switch(custom_bigalert1(inuzuka_clan_info, "You get a good boy, congrats.", 'clan_inuzuka.png', "Would you like to be born as a member of the Inuzuka clan?"))
-				if("yes")
-					src.Inuzuka=1
-					src.name="Inuzuka, [name]"
-					return */
+					return*/
 
 /*	if(src.Village=="Yukigakure")
 			/*if(prob(4) && archive.uchiha_on)

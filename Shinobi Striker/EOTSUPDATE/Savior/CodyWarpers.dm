@@ -1090,23 +1090,9 @@ turf/RoSWarpers/Ame
 				goingto=/turf/RoSWarpers/Ame/Hospital/Inside/R
 		Inside
 			L
-				Entered(mob/M)
-					if(!ismob(M)) return
-					if(M.teleporting) return
-					M.teleporting = 1
-					M.density = 0
-					M.Move(locate(146, 205, 18))
-					M.teleporting = 0
-					M.density = 1
+				goingto=/turf/RoSWarpers/Ame/Hospital/Entrance/L
 			R
-				Entered(mob/M)
-					if(!ismob(M)) return
-					if(M.teleporting) return
-					M.teleporting = 1
-					M.density = 0
-					M.Move(locate(147, 205, 18))
-					M.teleporting = 0
-					M.density = 1
+				goingto=/turf/RoSWarpers/Ame/Hospital/Entrance/R
 		Basement
 			UpL
 				goingto=/turf/RoSWarpers/Ame/Hospital/Basement/DownL

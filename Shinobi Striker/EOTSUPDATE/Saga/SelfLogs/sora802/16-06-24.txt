@@ -1,0 +1,97 @@
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">The flute playing gal</a> yells:</b><span style="color:#ff9999"><font color = white> I&#39;m awake!</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#ff9999><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">The flute playing gal</a> plays a melodic tune on her flute. The enchanting melody fills the air as she sits peacefully in an open space, surrounded by the beauty of nature. At the age of fourteen, she possesses a remarkable skill, captivating all who listen to her tune.</font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro was asleep. Dreaming of swordclashing. Samurai swinging and all that jimbo jambo. Until he heard a flute noise. Waking up he looked at the girl.<font color = white>&#34;.... Damm what&#39;s that melody..&#34;</font></font></font></font>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">The flute playing gal</a> asks:</b><span style="color:#ff9999"><font color = white> You like? Just a little tune of mine. My name is Asuno. What is yours?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Soichiro</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> And yes I like.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">The flute playing gal</a> says:</b><span style="color:#ff9999"><font color = white> Nice to meet you Soichiro. If you like. I can play for you.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> That would be be nice please.</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#ff9999><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> retrieves the flute from her side and carefully inspects the golden pipe. 
+   <font color = white>&#34;...this is one of my favorite songs.&#34;</font> 
+
+[https://www.youtube.com/watch?v=tF4z5kntXAA] 
+
+With a soft expression, the musician closes her eyes and places her soft lips upon the flute. As she exhales, a melody dances from the instrument, filling the air with light, metaphorical music notes. 
+
+When she finished, she spoke.
+        <font color = white>&#34;What do you think?&#34;</font>
+</font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro closed his eye&#39;s. Resting his head on his hands he relaxed. Feeling the melody it reminded him of the good days. Day&#39;s of non war. However now it was just conflict. Listening to the melody he didn&#39;t speak until the final note was played.
+
+
+<font color = white>&#34;Sensational. It really good. Thank you. I feel clear and calm.&#34;</font></font></font></font>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> You&#39;re welcome.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> I wonder what to do.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Other than fishing there ain&#39;t much to do.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> Not much at all. It has been very quiet in this area.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> I have only met two other people.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> I see</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Well  at least it&#39;s peaceful.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro asks:</b><span style="color:#808080"><font color = white> Say Asuno what do you plan to do in the future?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> asks:</b><span style="color:#ff9999"><font color = white> I&#39;ll make a living selling plushies and playing my flute. What about you?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Guess I become a samurai.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Guard people and such.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> asks:</b><span style="color:#ff9999"><font color = white> Samurai in this old town?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> yells:</b><span style="color:#ff9999"><font color = white> How will you learn such a thing!</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Use a damm sword that&#39;s how.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro yells:</b><span style="color:#808080"><font color = white> I will study the path of the sword!</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#ff9999><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> checks Soichiro for a particular item. <font color = white>&#34;...but I do not see any swords.&#34;</font></font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro has his arm&#39;s down sighing.<font color = white>&#34; Sadly I cannot have a weapon yet..&#34;</font></font></font></font>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> I need a permit...</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#ff9999><a href=?src=[0x300003a];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> pats Soichiro on the back. <font color = white>&#34;It&#39;ll be okay. I&#39;m going to lay down and sleep for the night. I will see you later.&#34;</font></font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro cheer&#39;s up.<font color = white>&#34;Okay. Thank you and see you later Asuno.&#34;</font></font></font></font>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Hm..</font></font></font></span></span>
+<br><font size=-3><font size=-4><font color=#ffcc00><a href=?src=[0x300004c];action=name;character=eb4fcaf2705658c0d153d1a1679fc84bbe831ab9ea80c6a63648620553c47055 style = "text-decoration: none; color: #ffcc00;">The senile old man</a> OOCs<font color = white>: (trying to get TP to a vill</font></font></font>
+<br><font size=-3><font size=-4><font color=#ffcc00><a href=?src=[0x300004c];action=name;character=eb4fcaf2705658c0d153d1a1679fc84bbe831ab9ea80c6a63648620553c47055 style = "text-decoration: none; color: #ffcc00;">The senile old man</a> OOCs<font color = white>: (might find more rp there</font></font></font>
+<br><font size=-3><font size=-4><font color=#808080>Soichiro OOCs<font color = white>: (ima chill here</font></font></font>
+<br><font size=-3><font size=-4><font color=#ffcc00><a href=?src=[0x300004c];action=name;character=eb4fcaf2705658c0d153d1a1679fc84bbe831ab9ea80c6a63648620553c47055 style = "text-decoration: none; color: #ffcc00;">The senile old man</a> OOCs<font color = white>: (have u seen any other people in Akihabara?</font></font></font>
+<br><font size=-3><font size=-4><font color=#ffcc00><a href=?src=[0x300004c];action=name;character=eb4fcaf2705658c0d153d1a1679fc84bbe831ab9ea80c6a63648620553c47055 style = "text-decoration: none; color: #ffcc00;">The senile old man</a> OOCs<font color = white>: (I only saw 2 more guys</font></font></font>
+<br><font size=-3><font size=-4><font color=#808080>Soichiro OOCs<font color = white>: (I saw two Azuno and the other girl</font></font></font>
+<br><font size=-3><font size=-4><font color=#808080>Soichiro OOCs<font color = white>: (but idk if there on rn</font></font></font>
+<br><font size=-3><font size=-4><font color=#ffcc00><a href=?src=[0x300004c];action=name;character=eb4fcaf2705658c0d153d1a1679fc84bbe831ab9ea80c6a63648620553c47055 style = "text-decoration: none; color: #ffcc00;">The senile old man</a> OOCs<font color = white>: (I never asked their name ngl</font></font></font>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Lord..</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#808080>Soichiro sighed. It was quiet. Very quiet.</font></font></font>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> yells:</b><span style="color:#ff9999"><font color = white> Soichiro!</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro yells:</b><span style="color:#808080"><font color = white> Oh Asuno hello!</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> asks:</b><span style="color:#ff9999"><font color = white> What&#39;s up?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Nothing much. I was about to go fishing.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro asks:</b><span style="color:#808080"><font color = white> You?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> asks:</b><span style="color:#ff9999"><font color = white> Me, nothing much. I am taking my daily walk. Where are you fishing at?</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> The lake.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> Show me where that is.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Sure.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> yells:</b><span style="color:#ff9999"><font color = white> Ah!</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> I stepped in water.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Uh oh..</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#ff9999"><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> says:</b><span style="color:#ff9999"><font color = white> It&#39;s okay. It&#39;ll dry.</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#808080">Soichiro says:</b><span style="color:#808080"><font color = white> Right here.</font></font></font></span></span>
+<br><font size=-3><font color = white><font color=#ff9999>As she stepped onto the bridge, she inhaled deeply, savoring the fresh scent of the water and the gentle caress of the breeze. While closing her eyes, Asuno immersed herself in the silence of the surroundings, feeling at one with nature. 
+
+Suddenly, she reached for her flute and brought it to her lips. 
+     <font color = white>&#34;...!&#34;</font>
+
+As the first notes flowed from her instrument, a melody filled the air, weaving through the trees and dancing across the rippling water. The sound harmonized with the peaceful ambiance, creating a magical tune that spoke straight to the heart. 
+With every careful touch of her fingers on the flute, the girl breathed life into the scene, calling all who listened into a nod. The music resonated with joy.
+
+<font color = white>&#34;I call this tune, &#39;The Bridge&#39; Entry to Heaven,&#34;</font> she recites while putting the flute away.<br>(<a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a>)</font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro smiled as he arrived at the lake. Getting his fishing rod he would start fishing while listening to the music. The calm breeze and flute playing would be heard from his ears as he continued to listen. Breathing, he used a little chakra and started walking on water with his fishing pole.
+
+
+<font color = white>&#34;That&#39;s a nice melody Asuno. It may help my luck with fishing. Hehe.&#34;</font> The aspiring samurai would throw his bait and rod into the water however nothing came out. He waited 5 to 10 minutes but nothing came out.
+
+He started to become irritated as his eyes twitched. It could not be true. Was he cursed with no fish? Was this the punishment for being unlucky? However, his samurai pride was on the line. He just had to simply wait.
+
+<font color = white>&#34;Waiting...&#34;</font>
+</font></font></font>
+<br><font size=-3><font color = white><font color=#ff9999><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> blinked, and then she blinked again. <font color = white>&#34;Huh?&#34;</font>
+
+The expression she wore was one of shock. 
+The way Soichiro effortlessly crossed the water made it appear as if it were a natural act, when it was far from it. . .
+       <font color = white>&#34;Are you some type of weird fish?!,&#34;</font> she asks while slowly backing up, almost dropping her flute as a result.</font></font></font>
+<br><font size=-3><font size=-4><font color=#ff9999><a href=?src=[0x300004c];action=name;character=b1676d8a631fb1dd8d46d2cfe66e8324088a6db2d975de54977d7f03e5580abd style = "text-decoration: none; color: #ff9999;">Asuno.</a> OOCs<font color = white>: (i did not see your rp post if you did post it.</font></font></font>
+<br><font size=-3><font size=-4><font color=#808080>Soichiro OOCs<font color = white>: (oof</font></font></font>
+<br><font size=-3><font size=-4><font color=#808080>Soichiro OOCs<font color = white>: (gotta retype it sigh..</font></font></font>
+<br><font size=-3><font color = white><font color=#808080>Soichiro sighed. He really didn&#39;t expect no fish to come out until. He heard a bite.<font color = white>&#34;Oh it&#39;s coming.&#34;</font> Getting bite&#39;s from multipule fish he would get a bucket and put&#39;s the fish inside.
+
+Coming back toward&#39;s her he looked at Asuno confused.<font color = white>&#34;Oh this it&#39;s a basic water walking technique. Someone taught me this but it&#39;s a normal thing for ninja and samurai to do.&#34;</font></font></font></font>
+<br><font size=-3><b><span style="color:#808080">Soichiro thinks:</b><span style="color:#808080"><font color = white><i> well some samurai don&#39;t do this but meh basics...</i></font></font></font></span></span>

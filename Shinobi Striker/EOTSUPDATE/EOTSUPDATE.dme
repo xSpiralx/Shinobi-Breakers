@@ -299,7 +299,6 @@
 #include "CODE\Grabbing.dm"
 #include "CODE\grids.dm"
 #include "CODE\Housing.dm"
-#include "CODE\Incentive.dm"
 #include "CODE\Infrastructure.dm"
 #include "CODE\InteriorHDTextures.dm"
 #include "CODE\Intro.dm"
