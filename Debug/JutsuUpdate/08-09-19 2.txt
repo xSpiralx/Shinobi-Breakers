@@ -1,0 +1,708 @@
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:36:28:lesinge Yotsuki, Yuugiri. 0 == 6.2102e+009
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:39:53:lesinge Yotsuki, Yuugiri. 0 == 6.2102e+009
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:39:lesinge Yotsuki, Yuugiri. Relentless Strike Set jutsu.vars = archived_jutsu.vars
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:42:27:lesinge Yotsuki, Yuugiri. 0 == 6.20677e+009
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars build
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars region
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars jutsu_type
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars Active
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars rank
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars craftRank
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars craftChance
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars craftCost
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars gridbased
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars grants_region
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars screentext
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars last_edit
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars icon_save
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars sorting
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars Discount
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars mastery_cost
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars is_public_effect
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars chakra_usage
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars point_cost
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars cooldown
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars jutsu_damage
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars progresses_into
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars control_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars stamina_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars byak_range
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars endurance_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars agility_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars chakra_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars speed_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars strength_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars learn_req
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars last_updated
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars prerequisites
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars encapsulates
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars perk_type
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars extra_type
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars free_spec
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars spec_perk
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars chakra_sight
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars sensing_color
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars sensing_resize
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars sensing_icon
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_strength
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_endurance
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_agility
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_speed
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_stamina
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_control
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_vitality
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_kenjutsu
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_health_pool
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_chakra_pool
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_stamina_pool
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_calories_pool
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars boost_swarms_pool
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars active
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars jutsu_shout
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars jutsu_message
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars unlearnable
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars buff_icon
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars last_use
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars perk_color
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars perk_note
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars saved_x
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars saved_y
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars saved_z
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars screen_loc
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars bounds
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars step_x
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars step_y
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars step_size
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars glide_size
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars vis_contents
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars tag
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars name
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars desc
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars suffix
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars text
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars icon
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars icon_state
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars overlays
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars underlays
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars dir
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars luminosity
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars opacity
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars density
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars layer
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars gender
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars mouse_drop_zone
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars contents
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars invisibility
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars infra_luminosity
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars pixel_x
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars pixel_y
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars pixel_z
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars maptext
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars maptext_width
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars maptext_height
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars alpha
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars color
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars blend_mode
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars maptext_x
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars maptext_y
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars plane
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars appearance_flags
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars pixel_w
+08-09-19 16:42:lesinge Yotsuki, Yuugiri. Jinchuuriki Set jutsu.vars = archived_jutsu.vars filters
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Jutsu
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Hozuki Clan
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Hozuki Clan == Hozuki Clan
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Suiton Initiate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Suiton Initiate == Suiton Initiate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Rehydrate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Rehydrate == Rehydrate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Aquatic Adaptation
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Assimilate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Assimilate == Assimilate
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. 6.21173e+009 == 6.21288e+009
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars build
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars region
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars jutsu_type
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars Active
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars rank
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars craftRank
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars craftChance
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars craftCost
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars gridbased
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars grants_region
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars screentext
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars last_edit
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars icon_save
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars sorting
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars Discount
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars mastery_cost
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars is_public_effect
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars chakra_usage
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars point_cost
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars cooldown
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars jutsu_damage
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars progresses_into
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars control_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars stamina_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars byak_range
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars endurance_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars agility_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars chakra_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars speed_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars strength_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars learn_req
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars last_updated
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars prerequisites
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars encapsulates
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars perk_type
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars extra_type
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars free_spec
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars spec_perk
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars chakra_sight
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars sensing_color
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars sensing_resize
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars sensing_icon
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_strength
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_endurance
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_agility
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_speed
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_stamina
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_control
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_vitality
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_kenjutsu
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_health_pool
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_chakra_pool
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_stamina_pool
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_calories_pool
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars boost_swarms_pool
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars active
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars jutsu_shout
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars jutsu_message
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars unlearnable
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars buff_icon
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars last_use
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars perk_color
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars perk_note
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars saved_x
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars saved_y
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars saved_z
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars screen_loc
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars bounds
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars step_x
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars step_y
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars step_size
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars glide_size
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars vis_contents
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars tag
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars name
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars desc
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars suffix
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars text
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars icon
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars icon_state
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars overlays
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars underlays
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars dir
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars luminosity
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars opacity
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars density
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars layer
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars gender
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars mouse_drop_zone
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars contents
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars invisibility
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars infra_luminosity
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars pixel_x
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars pixel_y
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars pixel_z
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars maptext
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars maptext_width
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars maptext_height
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars alpha
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars color
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars blend_mode
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars maptext_x
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars maptext_y
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars plane
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars appearance_flags
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars pixel_w
+08-09-19 16:43:taikills2 Hozuki, Jinpachi. Assimilate Set jutsu.vars = archived_jutsu.vars filters
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Protean II
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Protean II == Protean II
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi updating Demon Fish
+08-09-19 16:43:18:taikills2 Hozuki, Jinpachi. Demon Fish == Demon Fish
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:49:16:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Jutsu
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Hozuki Clan
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Hozuki Clan == Hozuki Clan
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Suiton Initiate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Suiton Initiate == Suiton Initiate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Rehydrate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Rehydrate == Rehydrate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Aquatic Adaptation
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Assimilate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Assimilate == Assimilate
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Protean II
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Protean II == Protean II
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi updating Demon Fish
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi. Demon Fish == Demon Fish
+08-09-19 16:50:08:taikills2 Hozuki, Jinpachi done updating Jutsu.
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:53:32:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:55:15:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Jutsu
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Hozuki Clan
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Hozuki Clan == Hozuki Clan
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Suiton Initiate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Suiton Initiate == Suiton Initiate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Rehydrate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Rehydrate == Rehydrate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Aquatic Adaptation
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Assimilate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Assimilate == Assimilate
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Protean II
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Protean II == Protean II
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi updating Demon Fish
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi. Demon Fish == Demon Fish
+08-09-19 16:55:15:taikills2 Hozuki, Jinpachi done updating Jutsu.
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 16:58:40:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Jutsu
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Hozuki Clan
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Hozuki Clan == Hozuki Clan
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Suiton Initiate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Suiton Initiate == Suiton Initiate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Rehydrate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Rehydrate == Rehydrate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Aquatic Adaptation
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Assimilate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Assimilate == Assimilate
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Protean II
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Protean II == Protean II
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi updating Demon Fish
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi. Demon Fish == Demon Fish
+08-09-19 16:59:31:taikills2 Hozuki, Jinpachi done updating Jutsu.
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 17:08:54:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 17:09:45:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 17:10:36:lesinge Yotsuki, Yuugiri done updating Jutsu.
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Jutsu
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Hozuki Clan
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Hozuki Clan == Hozuki Clan
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Rehydrate
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Rehydrate == Rehydrate
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Assimilate
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Assimilate == Assimilate
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Hydration Master
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Hydration Master == Hydration Master
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Aquatic Adaptation
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Aquatic Adaptation == Aquatic Adaptation
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Demon Fish
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Demon Fish == Demon Fish
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Suimen
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Suimen == Suimen
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Dokugiri: Azalea "Mad Honey"
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Dokugiri: Azalea "Mad Honey" == Dokugiri: Azalea "Mad Honey"
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Genjutsu Specialist
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Genjutsu Specialist == Genjutsu Specialist
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Relentless Strike
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Relentless Strike == Relentless Strike
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri updating Jinchuuriki
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri. Jinchuuriki == Jinchuuriki
+08-09-19 17:15:44:lesinge Yotsuki, Yuugiri done updating Jutsu.

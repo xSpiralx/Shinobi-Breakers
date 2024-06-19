@@ -1,0 +1,8 @@
+Illusionist: 
+An illusionist is one that can deftly manipulate their illusions to suit their needs.  This person may alter any illusion they have, as long as it maintains only the effects of the original technique.
+
+Magician: 
+A magician is one that uses sleight of hand to lure unknowing suspects into their trickery.  This allows an individual to conceal an illusion to a trigger based around their body.
+
+Vanishment: 
+The art of vanishing in plain sight, a trick known by many, but mastered by few.  This allows an individual to conceal or alter themselves using an illusion, and alter any illusions they may have to include themselves.

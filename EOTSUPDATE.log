@@ -1,0 +1,758 @@
+Sat Aug 26 22:46:47 2023
+World opened on network port 3344.
+Welcome BYOND! (5.0 Beta Version 515.1608)
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+runtime error: Cannot read null.squad
+proc name: New (/woodcutting/New)
+  usr: null
+  src: Woodcutting Mission (/woodcutting)
+  call stack:
+Woodcutting Mission (/woodcutting): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/delivery/New)
+  usr: null
+  src: Delivery Mission (/delivery)
+  call stack:
+Delivery Mission (/delivery): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/mining/New)
+  usr: null
+  src: Mining Mission (/mining)
+  call stack:
+Mining Mission (/mining): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+Warning: further proc crash messages are being suppressed to prevent overload...
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+The BYOND hub reports that port 3344 is reachable.
+BUG: Finished erasure with refcount=1 (ref=3:207) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:210) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:215) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:218) DM (:0)
+Sun Aug 27 03:18:28 2023
+World opened on network port 3344.
+Welcome BYOND! (5.0 Beta Version 515.1608)
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_jutsuapps.
+ARCHIVE: Loaded archive_weapons.
+runtime error: Cannot read null.squad
+proc name: New (/woodcutting/New)
+  usr: null
+  src: Woodcutting Mission (/woodcutting)
+  call stack:
+Woodcutting Mission (/woodcutting): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/delivery/New)
+  usr: null
+  src: Delivery Mission (/delivery)
+  call stack:
+Delivery Mission (/delivery): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/mining/New)
+  usr: null
+  src: Mining Mission (/mining)
+  call stack:
+Mining Mission (/mining): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+  usr: null
+  src: Fishing Mission (/fishing)
+  call stack:
+Fishing Mission (/fishing): New(null)
+load archive()
+world: New()
+world: New()
+world: New()
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+runtime error: Cannot read null.squad
+proc name: New (/fishing/New)
+Warning: further proc crash messages are being suppressed to prevent overload...
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Loaded archive_gmhelps.
+ARCHIVE: Loaded archive_clothing.
+ARCHIVE: Loaded archive_poisons.
+ARCHIVE: Loaded archive_databook.
+ARCHIVE: Loaded archive_bingobook.
+ARCHIVE: Load complete.
+ARCHIVE: Loaded skill tree.
+The BYOND hub reports that port 3344 is reachable.
+BUG: Removing corrupt rsc entry 'UchihaCrest.dmi'
+BUG: Removing corrupt rsc entry 'UchihaCrest.dmi'
+BUG: Removing corrupt rsc entry 'Traditional_Slippers.dmi'
+BUG: Removing corrupt rsc entry 'newpants.dmi'
+BUG: Finished erasure with refcount=1 (ref=3:221) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:210) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:207) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:200) DM (:0)
+BUG: Removing corrupt rsc entry 'PoliceFur.dmi'
+BUG: Finished erasure with refcount=1 (ref=3:183) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:197) DM (:0)
+BUG: Finished erasure with refcount=1 (ref=3:197) DM (:0)
+
+******************************************
+Caught SIGTERM, attempting clean shutdown.
+

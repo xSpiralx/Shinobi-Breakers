@@ -1,0 +1,19 @@
+Deft Handseals: 
+This person is trained to be able to easily contort their hands into handsigns.
+Note: Max seven handsigns in a round
+
+
+
+Swift Handseals: 
+With swift accuracy this person is able to easily form handsigns with quick ease.
+Note: Max twelve handsigns in a round
+
+
+
+Amazing Handseals: 
+With an amazing degree of skill, this person is able to effortlessly form a quick series of handsigns
+Note: Max twenty-two handsigns in a round
+
+Blinding Handseals: 
+Simply a blur to the naked eye, this person is able to effortlessly form handsigns with amazing accuracy.
+Note: Fourty five handsigns in a round

@@ -1,0 +1,12 @@
+I.pixel_y=-16
+					M.underlays+=I
+					M.loc = a
+					M.pixel_y=32
+			//		M.animate_movement=1
+					for(var/i=12,i>0,i-=3)
+						M.pixel_y=i
+						sleep(0.5)
+			//		M.animate_movement=0
+					M.pixel_y=0
+					M.underlays-=I
+					del(I)

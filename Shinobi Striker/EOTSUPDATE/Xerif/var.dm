@@ -1,1 +1,0 @@
-/mob/var/alert = 0

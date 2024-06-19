@@ -1,0 +1,4886 @@
+macro "macro"
+	elem 
+		name = "Center+REP"
+		command = ".center"
+	elem 
+		name = "CTRL+Northeast"
+		command = "TurnN"
+	elem 
+		name = "Northeast+REP"
+		command = ".northeast"
+	elem 
+		name = "CTRL+Southeast"
+		command = "TurnSE"
+	elem 
+		name = "Southeast+REP"
+		command = ".southeast"
+	elem 
+		name = "CTRL+Southwest"
+		command = "TurnSW"
+	elem 
+		name = "Southwest+REP"
+		command = ".southwest"
+	elem 
+		name = "CTRL+Northwest"
+		command = "TurnNW"
+	elem 
+		name = "Northwest+REP"
+		command = ".northwest"
+	elem 
+		name = "CTRL+West"
+		command = "TurnW"
+	elem 
+		name = "West+REP"
+		command = ".west"
+	elem 
+		name = "CTRL+North"
+		command = "TurnN"
+	elem 
+		name = "North+REP"
+		command = ".north"
+	elem 
+		name = "CTRL+East"
+		command = "TurnE"
+	elem 
+		name = "East+REP"
+		command = ".east"
+	elem 
+		name = "CTRL+South"
+		command = "TurnS"
+	elem 
+		name = "South+REP"
+		command = ".south"
+	elem 
+		name = "J"
+		command = "jutsu-box"
+	elem 
+		name = "P"
+		command = "progress-box"
+
+
+window "Container"
+	elem "Container"
+		type = MAIN
+		pos = 281,0
+		size = 584x438
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Profile"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "Grid"
+		type = GRID
+		pos = 16,56
+		size = 544x360
+		anchor1 = 3,13
+		anchor2 = 96,95
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		highlight-color = #000000
+	elem "ContainerName"
+		type = LABEL
+		pos = 16,16
+		size = 544x32
+		anchor1 = 3,4
+		anchor2 = 96,11
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Container"
+	elem "edgeright"
+		type = LABEL
+		pos = 572,-8
+		size = 12x480
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,425
+		size = 584x13
+		anchor1 = 0,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 584x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 572,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,425
+		size = 12x13
+		anchor1 = 0,97
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 564,0
+		size = 20x20
+		anchor1 = 97,0
+		anchor2 = 100,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "closeContainer"
+		is-flat = true
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 572,425
+		size = 12x13
+		anchor1 = 98,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+
+window "GMHelps"
+	elem "GMHelps"
+		type = MAIN
+		pos = 281,0
+		size = 584x438
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Profile"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "GMHelpTitle"
+		type = LABEL
+		pos = 240,64
+		size = 200x20
+		anchor1 = 41,14
+		anchor2 = 75,18
+		text-color = #e9c80d
+		background-color = #0b0f13
+		border = line
+		saved-params = ""
+		text = ""
+	elem "button42"
+		type = BUTTON
+		pos = 472,212
+		size = 76x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "Delete"
+		command = "GM-Help-Delete"
+	elem "button41"
+		type = BUTTON
+		pos = 472,172
+		size = 76x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "Respond"
+		command = "GM-Help-Respond"
+	elem "Resolve"
+		type = BUTTON
+		pos = 472,136
+		size = 76x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "Resolve"
+		command = "GM-Help-Resolve"
+	elem "button40"
+		type = BUTTON
+		pos = 136,60
+		size = 60x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "Resolved"
+		command = "Resolved-Helps"
+	elem "Updated"
+		type = BUTTON
+		pos = 76,60
+		size = 60x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "Updated"
+		command = "Updated-Helps"
+	elem "GMHelpUser"
+		type = LABEL
+		pos = 240,84
+		size = 200x20
+		anchor1 = 41,14
+		anchor2 = 75,18
+		text-color = #e9c80d
+		background-color = #0b0f13
+		border = line
+		saved-params = ""
+		text = ""
+	elem "GMHelpOutput"
+		type = OUTPUT
+		pos = 240,104
+		size = 200x280
+		anchor1 = none
+		anchor2 = none
+		text-color = #ffffff
+		background-color = #070a12
+		saved-params = "max-lines"
+	elem "NewHelpsbutton"
+		type = BUTTON
+		pos = 16,60
+		size = 60x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = "New"
+		command = "New-Helps"
+	elem "HelpType"
+		type = CHILD
+		pos = 16,80
+		size = 200x304
+		anchor1 = 3,16
+		anchor2 = 37,88
+		saved-params = "splitter"
+		left = "NewHelps"
+		is-vert = false
+	elem "GMHelps"
+		type = LABEL
+		pos = 16,16
+		size = 544x32
+		anchor1 = 3,4
+		anchor2 = 96,11
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "GM Helps"
+	elem "edgeright"
+		type = LABEL
+		pos = 572,-8
+		size = 12x480
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,425
+		size = 584x13
+		anchor1 = 0,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 584x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 572,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,425
+		size = 12x13
+		anchor1 = 0,97
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 564,0
+		size = 20x20
+		anchor1 = 97,0
+		anchor2 = 100,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "Close-GM-Helps"
+		is-flat = true
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 572,425
+		size = 12x13
+		anchor1 = 98,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+
+window "Guides"
+	elem "Guides"
+		type = MAIN
+		pos = 372,0
+		size = 1052x539
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Guides"
+		image = 'Xerif\\Skin\\GuideButtons\\Background.png'
+	elem "button59"
+		type = BUTTON
+		pos = 668,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Medical.png'
+		command = "MedicalGuide"
+	elem "button56"
+		type = BUTTON
+		pos = 586,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\HandsealGuide.png'
+		command = "HandsealGuide"
+	elem "button55"
+		type = BUTTON
+		pos = 504,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Genjutsu.png'
+		command = "GenjutsuGuide"
+	elem "button54"
+		type = BUTTON
+		pos = 422,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Ninjutsu.png'
+		command = "NinjutsuGuide"
+	elem "button53"
+		type = BUTTON
+		pos = 340,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Projectile.png'
+		command = "ProjectileGuide"
+	elem "button52"
+		type = BUTTON
+		pos = 258,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Damage.png'
+		command = "DamageGuide"
+	elem "button51"
+		type = BUTTON
+		pos = 176,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Talents.png'
+		command = "TalentGuide"
+	elem "button50"
+		type = BUTTON
+		pos = 94,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Progress.png'
+		command = "ProgressGuide"
+	elem "guideoutput"
+		type = OUTPUT
+		pos = 41,71
+		size = 970x452
+		anchor1 = 4,13
+		anchor2 = 96,97
+		text-color = #ffffff
+		background-color = #f2ead7
+		saved-params = "max-lines"
+	elem "button49"
+		type = BUTTON
+		pos = 12,11
+		size = 78x22
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\GuideButtons\\Stats.png'
+		command = "StatGuide"
+
+window "JutsuShop"
+	elem "JutsuShop"
+		type = MAIN
+		pos = 281,0
+		size = 831x478
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image = 'Skin\\shopBG.png'
+	elem "button34"
+		type = BUTTON
+		pos = 33,21
+		size = 78x22
+		anchor1 = 4,4
+		anchor2 = 13,9
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\saer.png'
+		command = "SearchPublicJutsu"
+	elem "button33"
+		type = BUTTON
+		pos = 472,18
+		size = 78x22
+		anchor1 = 57,4
+		anchor2 = 66,8
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\sort.png'
+		command = "JutsuDatabaseSorting"
+	elem "SearchField"
+		type = INPUT
+		pos = 112,21
+		size = 134x22
+		anchor1 = 13,4
+		anchor2 = 30,9
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "button30"
+		type = BUTTON
+		pos = 587,405
+		size = 78x22
+		anchor1 = 71,85
+		anchor2 = 80,89
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\buy.png'
+		command = "BuySelectedJutsu"
+	elem "Reqs"
+		type = OUTPUT
+		pos = 587,300
+		size = 219x88
+		anchor1 = 71,63
+		anchor2 = 97,81
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label28"
+		type = LABEL
+		pos = 586,280
+		size = 78x22
+		anchor1 = 71,59
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\byttib1.png'
+	elem "Desc"
+		type = OUTPUT
+		pos = 587,125
+		size = 219x123
+		anchor1 = 71,26
+		anchor2 = 97,52
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label27"
+		type = LABEL
+		pos = 587,105
+		size = 78x22
+		anchor1 = 71,22
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\button2.png'
+	elem "Name"
+		type = OUTPUT
+		pos = 664,52
+		size = 142x22
+		anchor1 = 80,11
+		anchor2 = 97,15
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label26"
+		type = LABEL
+		pos = 589,52
+		size = 78x22
+		anchor1 = 71,11
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\name.png'
+	elem "label30"
+		type = LABEL
+		pos = 592,16
+		size = 78x22
+		anchor1 = 71,3
+		anchor2 = 81,8
+		saved-params = ""
+		text = ""
+		image = 'Skin\\current.png'
+	elem "PPDisplay"
+		type = LABEL
+		pos = 669,16
+		size = 59x22
+		anchor1 = 81,3
+		anchor2 = 88,8
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		text = ""
+	elem "JutsuShopGrid"
+		type = GRID
+		pos = 32,48
+		size = 520x400
+		anchor1 = 4,10
+		anchor2 = 66,94
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		highlight-color = #000000
+
+window "MobView"
+	elem "MobView"
+		type = MAIN
+		pos = 372,0
+		size = 640x478
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		image = 'Cody\\RPSpyPanel.png'
+	elem "button25"
+		type = BUTTON
+		pos = 613,8
+		size = 16x20
+		anchor1 = 96,2
+		anchor2 = 99,6
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "CloseMobView"
+	elem "button19"
+		type = BUTTON
+		pos = 128,447
+		size = 120x20
+		anchor1 = 19,92
+		anchor2 = 39,96
+		text-color = #caca00
+		background-color = #2b3a47
+		saved-params = "is-checked"
+		text = "Clear Notes"
+		command = "ClearNote"
+	elem "button18"
+		type = BUTTON
+		pos = 8,447
+		size = 120x20
+		anchor1 = 1,92
+		anchor2 = 14,96
+		text-color = #caca00
+		background-color = #2b3a47
+		saved-params = "is-checked"
+		text = "Add Note"
+		command = "AddNote"
+	elem "label20"
+		type = LABEL
+		pos = 96,155
+		size = 152x20
+		anchor1 = 15,33
+		anchor2 = 39,37
+		text-color = #caca00
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Admin Notes"
+	elem "AdminNotes"
+		type = OUTPUT
+		pos = 10,176
+		size = 238x272
+		anchor1 = none
+		anchor2 = none
+		text-color = #ffffff
+		background-color = #0b0f13
+		saved-params = "max-lines"
+	elem "difference"
+		type = OUTPUT
+		pos = 159,56
+		size = 88x16
+		anchor1 = none
+		anchor2 = none
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = "max-lines"
+	elem "label19"
+		type = LABEL
+		pos = 98,56
+		size = 60x20
+		anchor1 = 15,12
+		anchor2 = 25,16
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Difference"
+	elem "average"
+		type = OUTPUT
+		pos = 156,35
+		size = 85x21
+		anchor1 = none
+		anchor2 = none
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = "max-lines"
+	elem "mvlabel1"
+		type = LABEL
+		pos = 96,36
+		size = 60x20
+		anchor1 = 15,8
+		anchor2 = 24,12
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Average"
+	elem "button17"
+		type = BUTTON
+		pos = 9,155
+		size = 88x20
+		anchor1 = 1,33
+		anchor2 = 15,37
+		text-color = #caca00
+		background-color = #2b3a47
+		saved-params = "is-checked"
+		text = "Reward Player"
+		command = "RewardSelected"
+	elem "LogCheck"
+		type = OUTPUT
+		pos = 248,34
+		size = 383x430
+		anchor1 = 39,8
+		anchor2 = 99,98
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = "max-lines"
+	elem "MobGrid"
+		type = GRID
+		pos = 10,36
+		size = 88x119
+		anchor1 = 1,7
+		anchor2 = 15,32
+		background-color = #c0c0c0
+		saved-params = ""
+		show-lines = none
+		highlight-color = #000000
+
+window "NPC"
+	elem "NPC"
+		type = MAIN
+		pos = 372,0
+		size = 167x290
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Crafting"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "con"
+		type = INPUT
+		pos = 56,232
+		size = 80x24
+		anchor1 = 34,80
+		anchor2 = 81,88
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setControlNPC"
+	elem "speed"
+		type = INPUT
+		pos = 56,200
+		size = 80x24
+		anchor1 = 34,69
+		anchor2 = 81,77
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setSpeedNPC"
+	elem "end"
+		type = INPUT
+		pos = 56,168
+		size = 80x24
+		anchor1 = 34,58
+		anchor2 = 81,66
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setEnduranceNPC"
+	elem "stam"
+		type = INPUT
+		pos = 56,136
+		size = 80x24
+		anchor1 = 34,47
+		anchor2 = 81,55
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setStaminaNPC"
+	elem "agi"
+		type = INPUT
+		pos = 56,104
+		size = 80x24
+		anchor1 = 34,36
+		anchor2 = 81,44
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setAgilityNPC"
+	elem "str"
+		type = INPUT
+		pos = 56,72
+		size = 80x24
+		anchor1 = 34,25
+		anchor2 = 81,33
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		command = "setStrengthNPC"
+	elem "label16"
+		type = LABEL
+		pos = 16,224
+		size = 40x32
+		anchor1 = 10,77
+		anchor2 = 34,88
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Control"
+	elem "label15"
+		type = LABEL
+		pos = 16,192
+		size = 40x32
+		anchor1 = 10,66
+		anchor2 = 34,77
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Speed"
+	elem "label14"
+		type = LABEL
+		pos = 16,160
+		size = 40x32
+		anchor1 = 10,55
+		anchor2 = 34,66
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "End"
+	elem "label13"
+		type = LABEL
+		pos = 16,128
+		size = 40x32
+		anchor1 = 10,44
+		anchor2 = 34,55
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Stamina"
+	elem "label12"
+		type = LABEL
+		pos = 16,96
+		size = 40x32
+		anchor1 = 10,33
+		anchor2 = 34,44
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Agility"
+	elem "label8"
+		type = LABEL
+		pos = 16,64
+		size = 40x32
+		anchor1 = 10,22
+		anchor2 = 34,33
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Strength"
+	elem "edgeright"
+		type = LABEL
+		pos = 155,8
+		size = 16x280
+		anchor1 = 93,3
+		anchor2 = 100,99
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "Name"
+		type = LABEL
+		pos = 15,16
+		size = 137x32
+		anchor1 = 9,6
+		anchor2 = 91,17
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Stats"
+	elem "edgebottom"
+		type = LABEL
+		pos = -1,277
+		size = 168x13
+		anchor1 = 0,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x288
+		anchor1 = 0,0
+		anchor2 = 7,99
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = -1,0
+		size = 168x13
+		anchor1 = 0,0
+		anchor2 = 98,4
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,277
+		size = 12x13
+		anchor1 = 0,96
+		anchor2 = 7,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 155,277
+		size = 12x13
+		anchor1 = 93,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 7,4
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 155,0
+		size = 13x13
+		anchor1 = 96,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 144,4
+		size = 20x20
+		anchor1 = 86,1
+		anchor2 = 98,8
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\crossbutton.PNG'
+		command = "closeNPC"
+		is-flat = true
+
+window "NewHelps"
+	elem "NewHelps"
+		type = MAIN
+		pos = 281,0
+		size = 200x304
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "NewHelpsGrid"
+		type = GRID
+		pos = 0,0
+		size = 200x304
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #ffffff
+		background-color = #2b3a47
+		drop-zone = false
+		saved-params = ""
+		highlight-color = #000000
+
+window "UpdatedHelps"
+	elem "UpdatedHelps"
+		type = MAIN
+		pos = 372,0
+		size = 200x304
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "UpdatedHelpsGrid"
+		type = GRID
+		pos = 0,0
+		size = 200x304
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #ffffff
+		background-color = #2b3a47
+		drop-zone = false
+		saved-params = ""
+		highlight-color = #000000
+
+window "ResolvedHelps"
+	elem "ResolvedHelps"
+		type = MAIN
+		pos = 372,0
+		size = 200x304
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "ResolvedHelpsGrid"
+		type = GRID
+		pos = 0,0
+		size = 200x304
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #ffffff
+		background-color = #2b3a47
+		drop-zone = false
+		saved-params = ""
+		highlight-color = #000000
+
+window "Perk"
+	elem "Perk"
+		type = MAIN
+		pos = 281,0
+		size = 272x290
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Crafting"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "label31"
+		type = LABEL
+		pos = 94,0
+		size = 166x13
+		anchor1 = 35,0
+		anchor2 = 96,4
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "label29"
+		type = LABEL
+		pos = 94,277
+		size = 167x13
+		anchor1 = 35,96
+		anchor2 = 96,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeright"
+		type = LABEL
+		pos = 260,8
+		size = 12x280
+		anchor1 = 94,3
+		anchor2 = 100,99
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "Picture"
+		type = LABEL
+		pos = 94,56
+		size = 71x64
+		anchor1 = 35,19
+		anchor2 = 61,41
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = ""
+	elem "Description"
+		type = OUTPUT
+		pos = 39,144
+		size = 198x128
+		anchor1 = 15,50
+		anchor2 = 87,94
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "Name"
+		type = LABEL
+		pos = 70,16
+		size = 135x32
+		anchor1 = 26,6
+		anchor2 = 76,17
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Perk"
+	elem "edgebottom"
+		type = LABEL
+		pos = -1,277
+		size = 167x13
+		anchor1 = 0,96
+		anchor2 = 61,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "Show"
+		type = BUTTON
+		pos = 79,124
+		size = 99x20
+		anchor1 = 31,43
+		anchor2 = 67,50
+		is-visible = false
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Show.png'
+		command = "showPerk"
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 11x288
+		anchor1 = 0,0
+		anchor2 = 4,99
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = -1,0
+		size = 166x13
+		anchor1 = 0,0
+		anchor2 = 61,4
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,277
+		size = 11x13
+		anchor1 = 0,96
+		anchor2 = 4,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 260,277
+		size = 12x13
+		anchor1 = 94,96
+		anchor2 = 99,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 11x13
+		anchor1 = 0,0
+		anchor2 = 4,4
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 260,0
+		size = 13x13
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 245,4
+		size = 20x20
+		anchor1 = 90,1
+		anchor2 = 97,8
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\crossbutton.PNG'
+		command = "closePerk"
+		is-flat = true
+
+window "Perk1"
+	elem "Perk1"
+		type = MAIN
+		pos = 372,0
+		size = 401x480
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		can-minimize = false
+		can-resize = false
+	elem "label24"
+		type = LABEL
+		pos = -8,467
+		size = 409x13
+		anchor1 = 0,0
+		anchor2 = 100,2
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = stretch
+	elem "label23"
+		type = LABEL
+		pos = 389,-24
+		size = 12x496
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeright.PNG'
+		image-mode = stretch
+	elem "label22"
+		type = LABEL
+		pos = 0,-16
+		size = 12x496
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeleft.PNG'
+		image-mode = stretch
+	elem "label21"
+		type = LABEL
+		pos = 1,0
+		size = 400x13
+		anchor1 = 0,0
+		anchor2 = 100,2
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = stretch
+	elem "grid1"
+		type = GRID
+		pos = 12,14
+		size = 168x450
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		saved-params = ""
+		highlight-color = #000000
+	elem "tl"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopleft.PNG'
+
+window "Weapon"
+	elem "Weapon"
+		type = MAIN
+		pos = 372,0
+		size = 275x290
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Crafting"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "label31"
+		type = LABEL
+		pos = 95,0
+		size = 168x13
+		anchor1 = 35,0
+		anchor2 = 96,4
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "label29"
+		type = LABEL
+		pos = 95,277
+		size = 169x13
+		anchor1 = 35,96
+		anchor2 = 96,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeright"
+		type = LABEL
+		pos = 259,8
+		size = 16x280
+		anchor1 = 94,3
+		anchor2 = 100,99
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "Picture"
+		type = LABEL
+		pos = 95,56
+		size = 72x64
+		anchor1 = 35,19
+		anchor2 = 61,41
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = ""
+	elem "Description"
+		type = OUTPUT
+		pos = 40,144
+		size = 200x128
+		anchor1 = 15,50
+		anchor2 = 87,94
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "Name"
+		type = LABEL
+		pos = 71,16
+		size = 137x32
+		anchor1 = 26,6
+		anchor2 = 76,17
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Perk"
+	elem "edgebottom"
+		type = LABEL
+		pos = -1,277
+		size = 169x13
+		anchor1 = 0,96
+		anchor2 = 61,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "Show"
+		type = BUTTON
+		pos = 84,124
+		size = 100x20
+		anchor1 = 31,43
+		anchor2 = 67,50
+		is-visible = false
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\Show.png'
+		command = "showWeapon"
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x288
+		anchor1 = 0,0
+		anchor2 = 4,99
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = -1,0
+		size = 168x13
+		anchor1 = 0,0
+		anchor2 = 61,4
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,277
+		size = 12x13
+		anchor1 = 0,96
+		anchor2 = 4,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 259,277
+		size = 12x13
+		anchor1 = 94,96
+		anchor2 = 99,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomright.PNG'
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 4,4
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 259,0
+		size = 13x13
+		anchor1 = none
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopright.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 248,4
+		size = 20x20
+		anchor1 = 90,1
+		anchor2 = 97,8
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "closeWeapon"
+		is-flat = true
+
+window "PerkShop"
+	elem "PerkShop"
+		type = MAIN
+		pos = 372,0
+		size = 831x478
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image = 'Skin\\shopBG.png'
+	elem "label30"
+		type = LABEL
+		pos = 592,16
+		size = 78x22
+		anchor1 = 71,3
+		anchor2 = 81,8
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\current.png'
+	elem "PPDisplay"
+		type = LABEL
+		pos = 669,16
+		size = 59x22
+		anchor1 = 81,3
+		anchor2 = 88,8
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		text = ""
+	elem "button34"
+		type = BUTTON
+		pos = 33,21
+		size = 78x22
+		anchor1 = 4,4
+		anchor2 = 13,9
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\saer.png'
+		command = "SearchPublicGrid"
+	elem "button33"
+		type = BUTTON
+		pos = 323,21
+		size = 78x22
+		anchor1 = 39,4
+		anchor2 = 48,9
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\sort.png'
+		command = "SortInnerSkills"
+	elem "button32"
+		type = BUTTON
+		pos = 409,21
+		size = 78x22
+		anchor1 = 49,4
+		anchor2 = 59,9
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\skill.png'
+		command = "SortSkillPerks"
+	elem "button31"
+		type = BUTTON
+		pos = 494,21
+		size = 78x22
+		anchor1 = 59,4
+		anchor2 = 69,9
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\spec.png'
+		command = "SortSpecPerks"
+	elem "SearchField"
+		type = INPUT
+		pos = 112,21
+		size = 134x22
+		anchor1 = 13,4
+		anchor2 = 30,9
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "button30"
+		type = BUTTON
+		pos = 587,405
+		size = 78x22
+		anchor1 = 71,85
+		anchor2 = 80,89
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\buy.png'
+		command = "BuySelectedPerk"
+	elem "Reqs"
+		type = OUTPUT
+		pos = 587,300
+		size = 219x88
+		anchor1 = 71,63
+		anchor2 = 97,81
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label28"
+		type = LABEL
+		pos = 586,280
+		size = 78x22
+		anchor1 = 71,59
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\perk_req.png'
+	elem "Desc"
+		type = OUTPUT
+		pos = 587,125
+		size = 219x123
+		anchor1 = 71,26
+		anchor2 = 97,52
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label27"
+		type = LABEL
+		pos = 587,105
+		size = 78x22
+		anchor1 = 71,22
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\perki.png'
+	elem "Name"
+		type = OUTPUT
+		pos = 664,52
+		size = 142x22
+		anchor1 = 80,11
+		anchor2 = 97,15
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label26"
+		type = LABEL
+		pos = 589,52
+		size = 78x22
+		anchor1 = 71,11
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\name.png'
+	elem "PerkShopGrid"
+		type = GRID
+		pos = 32,48
+		size = 540x398
+		anchor1 = 4,9
+		anchor2 = 69,90
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #e9c80c
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		highlight-color = #000000
+
+window "ShopWindow"
+	elem "ShopWindow"
+		type = MAIN
+		pos = 281,0
+		size = 850x520
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\perkshop.png'
+	elem "label33"
+		type = LABEL
+		pos = 0,0
+		size = 848x40
+		anchor1 = 0,0
+		anchor2 = 100,8
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\toptab2.png'
+		image-mode = tile
+	elem "jutsuButton"
+		type = BUTTON
+		pos = 74,0
+		size = 76x34
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\jutsuUnSel.png'
+		command = "ShowJutsuShop"
+	elem "perkButton"
+		type = BUTTON
+		pos = 0,0
+		size = 76x35
+		anchor1 = 0,0
+		anchor2 = 9,6
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\combined1.png'
+		command = "ShowPerkShop"
+	elem "shopp"
+		type = CHILD
+		pos = 8,40
+		size = 832x472
+		anchor1 = 1,8
+		anchor2 = 99,98
+		saved-params = "splitter"
+		left = "PerkShop"
+		is-vert = false
+	elem "button35"
+		type = BUTTON
+		pos = 820,6
+		size = 20x20
+		anchor1 = 96,1
+		anchor2 = 99,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\crossbutton.PNG'
+		command = "ClosePublicDatabase"
+
+window "admin_char_sheet"
+	elem "admin_char_sheet"
+		type = MAIN
+		pos = 372,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "admin reviews"
+		statusbar = false
+	elem "DateLabel"
+		type = LABEL
+		pos = 496,88
+		size = 136x20
+		anchor1 = 78,18
+		anchor2 = 99,23
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Last Rewarded"
+	elem "button37"
+		type = BUTTON
+		pos = 504,140
+		size = 88x20
+		anchor1 = 79,29
+		anchor2 = 93,33
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "is-checked"
+		text = "View Logs"
+		command = "ViewPlayerLogSheet"
+	elem "goalsOutTwo"
+		type = OUTPUT
+		pos = 8,344
+		size = 480x120
+		anchor1 = 1,72
+		anchor2 = 76,97
+		font-family = "Verdana"
+		font-size = 10
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "AdmNameLabel"
+		type = LABEL
+		pos = 496,112
+		size = 136x20
+		anchor1 = 78,23
+		anchor2 = 99,28
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Character Name"
+	elem "button29"
+		type = BUTTON
+		pos = 504,52
+		size = 88x20
+		anchor1 = 79,11
+		anchor2 = 93,15
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "is-checked"
+		text = "Reward"
+		command = "RewardCharSheetAdm"
+	elem "output1"
+		type = OUTPUT
+		pos = 8,8
+		size = 480x312
+		anchor1 = 1,2
+		anchor2 = 76,97
+		font-family = "Verdana"
+		font-size = 10
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+
+window "adminpanel"
+	elem "adminpanel"
+		type = MAIN
+		pos = 372,0
+		size = 700x441
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Skin\\adminpanel.PNG'
+	elem "button16"
+		type = BUTTON
+		pos = 216,76
+		size = 64x20
+		anchor1 = 3,11
+		anchor2 = 12,15
+		text-color = #ffffff
+		background-color = #2c3a47
+		saved-params = "is-checked"
+		text = "Year Speed"
+		command = "YearSpeed"
+	elem "button15"
+		type = BUTTON
+		pos = 152,76
+		size = 60x20
+		anchor1 = 3,11
+		anchor2 = 12,15
+		text-color = #ffffff
+		background-color = #2c3a47
+		saved-params = "is-checked"
+		text = "Day Speed"
+		command = "DaySpeed"
+	elem "button13"
+		type = BUTTON
+		pos = 88,76
+		size = 60x20
+		anchor1 = 3,11
+		anchor2 = 12,15
+		text-color = #ffffff
+		background-color = #2c3a47
+		saved-params = "is-checked"
+		text = "Add Month"
+		command = "AddMonth"
+	elem "label17"
+		type = LABEL
+		pos = 16,48
+		size = 72x20
+		anchor1 = 3,11
+		anchor2 = 12,15
+		text-color = #caca00
+		is-transparent = true
+		saved-params = ""
+		text = "Time Verbs"
+	elem "button12"
+		type = BUTTON
+		pos = 23,76
+		size = 60x20
+		anchor1 = 3,11
+		anchor2 = 12,15
+		text-color = #ffffff
+		background-color = #2c3a47
+		saved-params = "is-checked"
+		text = "Add Year"
+		command = "YearAdd"
+	elem "button2"
+		type = BUTTON
+		pos = 670,6
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "adminpanel-close"
+
+window "alert"
+	elem "alert"
+		type = MAIN
+		pos = 281,0
+		size = 227x258
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\alertcenter.png'
+		image-mode = tile
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,217
+		size = 227x41
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\alertbottom.png'
+		image-mode = tile
+	elem "text"
+		type = LABEL
+		pos = 17,44
+		size = 192x171
+		anchor1 = 0,0
+		anchor2 = 0,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Alert text"
+		align = top-left
+		text-wrap = true
+	elem "button"
+		type = BROWSER
+		pos = 9,229
+		size = 208x20
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+
+window "alert2"
+	elem "alert2"
+		type = MAIN
+		pos = 281,0
+		size = 227x258
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\alertcenter2.png'
+		image-mode = tile
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,217
+		size = 227x41
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\alertbarbottom2.png'
+		image-mode = tile
+	elem "text"
+		type = LABEL
+		pos = 17,44
+		size = 192x171
+		anchor1 = 0,0
+		anchor2 = 0,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Alert text"
+		align = top-left
+		text-wrap = true
+	elem "button3"
+		type = BUTTON
+		pos = 121,229
+		size = 92x20
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\nobutton.png'
+		command = "alert-no"
+	elem "button4"
+		type = BUTTON
+		pos = 11,229
+		size = 92x20
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\yesbutton.png'
+		command = "alert-yes"
+
+window "alert3"
+	elem "alert3"
+		type = MAIN
+		pos = 372,0
+		size = 227x231
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\alertcenter3.png'
+		image-mode = tile
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,218
+		size = 227x13
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 215,218
+		size = 12x13
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,218
+		size = 12x13
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "grid"
+		type = GRID
+		pos = 17,45
+		size = 193x169
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		show-lines = none
+		highlight-color = #000000
+
+window "alert4"
+	elem "alert4"
+		type = MAIN
+		pos = 281,0
+		size = 300x70
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\alertcenter4.png'
+		image-mode = tile
+	elem "button"
+		type = BROWSER
+		pos = 213,40
+		size = 75x18
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+	elem "input"
+		type = INPUT
+		pos = 14,43
+		size = 196x12
+		anchor1 = 0,100
+		anchor2 = none
+		font-family = "Arial"
+		font-size = 7
+		text-color = #e9c80c
+		background-color = #2b3a47
+		saved-params = ""
+		no-command = true
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+
+window "alert_html"
+	elem "alert_html"
+		type = MAIN
+		pos = 281,0
+		size = 227x258
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\alertcenter.png'
+		image-mode = tile
+	elem "text"
+		type = OUTPUT
+		pos = 16,56
+		size = 192x160
+		anchor1 = 7,19
+		anchor2 = 92,84
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,217
+		size = 227x41
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\alertbottom.png'
+		image-mode = tile
+	elem "button"
+		type = BROWSER
+		pos = 9,229
+		size = 208x20
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+
+window "bigalert1"
+	elem "bigalert1"
+		type = MAIN
+		pos = 281,0
+		size = 536x382
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Xerif\\Skin\\bigalert1.png'
+		image-mode = tile
+	elem "text2"
+		type = LABEL
+		pos = 19,255
+		size = 202x79
+		anchor1 = 0,0
+		anchor2 = 0,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Kekkei Genkai"
+		text-wrap = true
+	elem "picture"
+		type = LABEL
+		pos = 16,46
+		size = 209x200
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+	elem "text"
+		type = LABEL
+		pos = 231,46
+		size = 287x288
+		anchor1 = 0,0
+		anchor2 = 0,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		text = "Alert text"
+		align = top-left
+		text-wrap = true
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 515x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,341
+		size = 536x41
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\bigalertbottom.png'
+		image-mode = tile
+	elem "button6"
+		type = BUTTON
+		pos = 277,353
+		size = 248x19
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\bigno1.png'
+		command = "alert-no"
+	elem "button5"
+		type = BUTTON
+		pos = 10,353
+		size = 248x19
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\bigyes1.png'
+		command = "alert-yes"
+
+window "blackbox"
+	elem "blackbox"
+		type = MAIN
+		pos = 372,0
+		size = 227x120
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+
+window "buildbox"
+	elem "buildbox"
+		type = MAIN
+		pos = 372,0
+		size = 700x441
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Cody\\RPSpyPanel.png'
+	elem "label18"
+		type = LABEL
+		pos = 296,8
+		size = 56x20
+		anchor1 = 42,2
+		anchor2 = 51,6
+		font-family = "Arial"
+		font-size = 8
+		text-color = #caca00
+		is-transparent = true
+		saved-params = ""
+		text = "Build Grid"
+	elem "buildgrid"
+		type = GRID
+		pos = 10,32
+		size = 680x400
+		anchor1 = 1,7
+		anchor2 = 98,98
+		background-color = #2c3a47
+		saved-params = ""
+		highlight-color = #000000
+
+window "char_sheet"
+	elem "char_sheet"
+		type = MAIN
+		pos = 281,0
+		size = 773x441
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		image = 'Cody\\RPSpyPanel.png'
+	elem "button36"
+		type = BUTTON
+		pos = 652,368
+		size = 100x20
+		anchor1 = 84,83
+		anchor2 = 97,88
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\goals.png'
+		command = "OwnGoalsChange"
+	elem "goalsOut"
+		type = OUTPUT
+		pos = 16,368
+		size = 632x56
+		anchor1 = 2,83
+		anchor2 = 84,96
+		font-family = "Verdana"
+		font-size = 10
+		text-color = #ffffff
+		background-color = #2c3a47
+		border = line
+		saved-params = "max-lines"
+		max-lines = 0
+	elem "label25"
+		type = LABEL
+		pos = 8,8
+		size = 184x20
+		anchor1 = none
+		anchor2 = none
+		font-family = "Arial"
+		font-size = 10
+		text-color = #e9c80c
+		is-transparent = true
+		saved-params = ""
+		text = "Progression Sheet"
+	elem "button28"
+		type = BUTTON
+		pos = 652,188
+		size = 100x20
+		anchor1 = 84,43
+		anchor2 = 97,47
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\delete_entry.png'
+		command = "OwnProgressionDelete"
+	elem "button27"
+		type = BUTTON
+		pos = 652,108
+		size = 100x20
+		anchor1 = 84,24
+		anchor2 = 97,29
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\append_entry.png'
+		command = "OwnProgressionAppend"
+	elem "button26"
+		type = BUTTON
+		pos = 652,148
+		size = 100x20
+		anchor1 = 84,34
+		anchor2 = 97,38
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\edit_entry.png'
+		command = "OwnProgressionEdit"
+	elem "outputCharSheet"
+		type = OUTPUT
+		pos = 16,40
+		size = 632x320
+		anchor1 = 2,9
+		anchor2 = 84,96
+		font-family = "Verdana"
+		font-size = 10
+		text-color = #ffffff
+		background-color = #2c3a47
+		border = line
+		saved-params = "max-lines"
+		max-lines = 0
+	elem "button11"
+		type = BUTTON
+		pos = 742,8
+		size = 17x16
+		anchor1 = 96,2
+		anchor2 = 98,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "CloseProgression"
+		is-flat = true
+
+window "chat"
+	elem "chat"
+		type = MAIN
+		pos = 372,0
+		size = 1223x250
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image-mode = tile
+	elem "button57"
+		type = BUTTON
+		pos = 694,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Jutsu Application.png'
+		command = "jutsu-application"
+	elem "label2"
+		type = LABEL
+		pos = 0,0
+		size = 1223x46
+		anchor1 = 0,0
+		anchor2 = 100,0
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\toptab2.png'
+		image-mode = tile
+	elem "button58"
+		type = BUTTON
+		pos = 607,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Craft.png'
+		command = "craft"
+	elem "button47"
+		type = BUTTON
+		pos = 782,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Combat Guide.png'
+		command = "CombatGuide"
+		is-flat = true
+	elem "button46"
+		type = BUTTON
+		pos = 869,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\World Info.png'
+		command = "information"
+	elem "button45"
+		type = BUTTON
+		pos = 956,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Follow.png'
+		command = "follow"
+	elem "button44"
+		type = BUTTON
+		pos = 1043,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Jutsu Range.png'
+		command = "toggle-marker"
+	elem "label4"
+		type = LABEL
+		pos = 0,202
+		size = 1223x48
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\bottomtab2.png'
+		image-mode = tile
+	elem "edgeright"
+		type = LABEL
+		pos = 1211,0
+		size = 12x250
+		anchor1 = 100,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x250
+		anchor1 = 0,0
+		anchor2 = 0,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "label3"
+		type = LABEL
+		pos = 0,202
+		size = 244x48
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\bottomtab1.png'
+	elem "input"
+		type = BROWSER
+		pos = 12,219
+		size = 74x18
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+	elem "button48"
+		type = BUTTON
+		pos = 694,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\Jutsu Application.png'
+		command = "jutsu-application"
+	elem "inputbar"
+		type = INPUT
+		pos = 92,222
+		size = 781x12
+		anchor1 = 0,100
+		anchor2 = 100,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #e9c80c
+		background-color = #0b0f12
+		saved-params = ""
+	elem "label5"
+		type = LABEL
+		pos = 859,202
+		size = 364x48
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\bottomtab3.png'
+	elem "label6"
+		type = LABEL
+		pos = 1203,0
+		size = 20x46
+		anchor1 = 100,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\toptab3.png'
+	elem "button43"
+		type = BUTTON
+		pos = 1131,4
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\Toolbar Buttons\\GM Help.png'
+		command = "gm-help"
+	elem "label1"
+		type = LABEL
+		pos = 0,0
+		size = 244x45
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\toptab1.png'
+	elem "rpbutton"
+		type = BUTTON
+		pos = 881,219
+		size = 74x18
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\buttonroleplay1.png'
+		command = "Roleplay"
+	elem "progressbutton"
+		type = BUTTON
+		pos = 964,217
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\progressbutton.png'
+		command = "OwnProgression"
+	elem "specbutton"
+		type = BUTTON
+		pos = 1049,217
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\specializationbutton.png'
+		command = "PublicDatabase"
+	elem "button8"
+		type = BUTTON
+		pos = 1134,217
+		size = 78x22
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\optionsbutton.png'
+		command = "Options"
+	elem "output"
+		type = CHILD
+		pos = 16,45
+		size = 1191x159
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #0b0f13
+		saved-params = "splitter"
+		left = "outputall"
+		right = "outputooc"
+		is-vert = true
+		splitter = 75
+
+window "crafting"
+	elem "crafting"
+		type = MAIN
+		pos = 281,0
+		size = 584x438
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Crafting"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "itemGrid"
+		type = GRID
+		pos = 16,56
+		size = 544x360
+		anchor1 = 3,13
+		anchor2 = 96,95
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		highlight-color = #000000
+	elem "ContainerName"
+		type = LABEL
+		pos = 16,16
+		size = 544x32
+		anchor1 = 3,4
+		anchor2 = 96,11
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Crafting"
+	elem "edgeright"
+		type = LABEL
+		pos = 572,-8
+		size = 12x480
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,425
+		size = 584x13
+		anchor1 = 0,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 584x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 572,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,425
+		size = 12x13
+		anchor1 = 0,97
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 564,0
+		size = 20x20
+		anchor1 = 97,0
+		anchor2 = 100,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\crossbutton.PNG'
+		command = "closeCraft"
+		is-flat = true
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 572,425
+		size = 12x13
+		anchor1 = 98,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		can-resize = false
+		icon = 'Xerif\\ssoiconbig5.png'
+		macro = "macro"
+		menu = "menu"
+	elem "screenlabel"
+		type = LABEL
+		pos = 0,0
+		size = 640x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-visible = false
+		saved-params = ""
+		text = ""
+	elem "child"
+		type = CHILD
+		pos = 0,0
+		size = 640x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-default = true
+		saved-params = "splitter"
+		left = "titlescreen"
+		is-vert = false
+
+window "greybox"
+	elem "greybox"
+		type = MAIN
+		pos = 281,0
+		size = 227x120
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image = 'Skin\\greybox.png'
+
+window "mainscreen"
+	elem "mainscreen"
+		type = MAIN
+		pos = 281,0
+		size = 803x480
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		macro = "macro"
+		menu = "menu"
+	elem "childtabs"
+		type = CHILD
+		pos = 0,230
+		size = 803x250
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = "splitter"
+		left = "chat"
+		is-vert = false
+	elem "childwrapper"
+		type = CHILD
+		pos = 0,0
+		size = 803x231
+		anchor1 = 0,0
+		anchor2 = 100,100
+		saved-params = "splitter"
+		left = "wrapper"
+		is-vert = false
+	elem "tabs"
+		type = BROWSER
+		pos = 0,230
+		size = 302x35
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+
+window "mappane"
+	elem "mappane"
+		type = MAIN
+		pos = 281,0
+		size = 480x480
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		on-size = "resized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "map"
+		type = MAP
+		pos = 0,0
+		size = 480x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-default = true
+		saved-params = "icon-size"
+		icon-size = 32
+		zoom = 1
+
+window "outputall"
+	elem "outputall"
+		type = MAIN
+		pos = 281,0
+		size = 800x248
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "output"
+		type = OUTPUT
+		pos = 0,0
+		size = 800x250
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #0b0f12
+		saved-params = "max-lines"
+		link-color = #ffffff
+		visited-color = #ffffff
+		enable-http-images = true
+
+window "outputic"
+	elem "outputic"
+		type = MAIN
+		pos = 281,0
+		size = 800x248
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "output"
+		type = OUTPUT
+		pos = 0,0
+		size = 800x250
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #0b0f12
+		saved-params = "max-lines"
+		link-color = #ffffff
+		visited-color = #ffffff
+		enable-http-images = true
+
+window "outputcombat"
+	elem "outputcombat"
+		type = MAIN
+		pos = 281,0
+		size = 800x248
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "output"
+		type = OUTPUT
+		pos = 0,0
+		size = 800x250
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #0b0f12
+		saved-params = "max-lines"
+		link-color = #ffffff
+		visited-color = #ffffff
+		enable-http-images = true
+
+window "outputooc"
+	elem "outputooc"
+		type = MAIN
+		pos = 372,0
+		size = 300x480
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "output"
+		type = OUTPUT
+		pos = 10,0
+		size = 290x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Calibri"
+		font-style = "bold"
+		text-color = #ffffff
+		background-color = #0b0f12
+		is-default = true
+		saved-params = "max-lines"
+		link-color = #e9c80c
+		visited-color = #c0c0c0
+		enable-http-images = true
+
+window "outputoocsay"
+	elem "outputoocsay"
+		type = MAIN
+		pos = 372,0
+		size = 800x248
+		anchor1 = none
+		anchor2 = none
+		background-color = #0b0f12
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "output"
+		type = OUTPUT
+		pos = 0,0
+		size = 800x250
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #0b0f12
+		saved-params = "max-lines"
+		link-color = #ffffff
+		visited-color = #ffffff
+		enable-http-images = true
+
+window "rpspy"
+	elem "rpspy"
+		type = MAIN
+		pos = 281,0
+		size = 640x380
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		image = 'Cody\\RPSpyPanel.png'
+	elem "button10"
+		type = BUTTON
+		pos = 613,8
+		size = 16x12
+		anchor1 = 95,2
+		anchor2 = 98,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "View-Roleplay-Spy"
+		is-flat = true
+	elem "output"
+		type = OUTPUT
+		pos = 8,26
+		size = 624x345
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Calibri"
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = "max-lines"
+
+window "start_alert"
+	elem "start_alert"
+		type = MAIN
+		pos = 372,0
+		size = 227x231
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image = 'Xerif\\Skin\\alertcenter3.png'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,216
+		size = 227x15
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "header"
+		type = BROWSER
+		pos = 8,8
+		size = 208x22
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 215,216
+		size = 12x13
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,216
+		size = 12x13
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+	elem "grid"
+		type = GRID
+		pos = 17,45
+		size = 193x169
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #2b3a47
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		show-lines = none
+		highlight-color = #e9c80d
+
+window "tabpane"
+	elem "tabpane"
+		type = MAIN
+		pos = 372,0
+		size = 480x480
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		image-mode = tile
+	elem "info1"
+		type = INFO
+		pos = 0,0
+		size = 480x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #ffffff
+		background-color = #0b0f12
+		is-default = true
+		saved-params = ""
+		highlight-color = #e9c80c
+		tab-text-color = #ffffff
+		tab-background-color = #0b0f12
+		tab-font-family = "Arial"
+		tab-font-size = 8
+
+window "titlescreen"
+	elem "titlescreen"
+		type = MAIN
+		pos = 372,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "browser"
+		type = BROWSER
+		pos = 0,0
+		size = 660x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #000000
+		saved-params = ""
+	elem "edgeright"
+		type = LABEL
+		pos = 628,0
+		size = 12x480
+		anchor1 = 100,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "child"
+		type = CHILD
+		pos = 202,280
+		size = 227x120
+		anchor1 = 32,58
+		anchor2 = 67,83
+		saved-params = "splitter"
+		left = "greybox"
+		is-vert = false
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,467
+		size = 640x13
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 0,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 640x13
+		anchor1 = 0,0
+		anchor2 = 100,0
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 628,467
+		size = 12x13
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 628,0
+		size = 12x13
+		anchor1 = 100,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,467
+		size = 12x13
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+
+window "welcome"
+	elem "welcome"
+		type = MAIN
+		pos = 372,0
+		size = 420x441
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-resize = false
+		image = 'Xerif\\Skin\\loginbox.PNG'
+	elem "button1"
+		type = BUTTON
+		pos = 390,6
+		size = 20x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "login-close"
+	elem "browser"
+		type = BROWSER
+		pos = 10,32
+		size = 400x400
+		anchor1 = 2,7
+		anchor2 = 98,98
+		saved-params = ""
+
+window "wholist"
+	elem "wholist"
+		type = MAIN
+		pos = 372,0
+		size = 227x480
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-resize = false
+		image = 'Xerif\\Skin\\wholist.png'
+	elem "button7"
+		type = BUTTON
+		pos = 9,451
+		size = 208x20
+		anchor1 = none
+		anchor2 = none
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\alertbutton1.png'
+		command = "wholistclose"
+	elem "grid"
+		type = GRID
+		pos = 18,78
+		size = 190x355
+		anchor1 = 0,100
+		anchor2 = none
+		font-family = "Arial"
+		font-size = 8
+		text-color = #fffdcb
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		show-lines = horizontal
+		line-color = #646464
+		highlight-color = #000000
+	elem "label7"
+		type = LABEL
+		pos = 18,47
+		size = 190x25
+		anchor1 = 0,100
+		anchor2 = none
+		font-family = "Arial"
+		font-size = 8
+		text-color = #fffdcb
+		background-color = #2b3a47
+		border = line
+		saved-params = ""
+		text = "Online Users"
+
+window "wrapper"
+	elem "wrapper"
+		type = MAIN
+		pos = 372,0
+		size = 480x480
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		on-size = "resized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "child1"
+		type = CHILD
+		pos = 12,13
+		size = 456x454
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #0b0f12
+		saved-params = "splitter"
+		left = "mappane"
+		right = "tabpane"
+		is-vert = true
+		splitter = 70
+	elem "edgeright"
+		type = LABEL
+		pos = 468,0
+		size = 12x480
+		anchor1 = 100,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,467
+		size = 480x13
+		anchor1 = 0,100
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 0,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 480x13
+		anchor1 = 0,0
+		anchor2 = 100,0
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 468,467
+		size = 12x13
+		anchor1 = 100,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 468,0
+		size = 12x13
+		anchor1 = 100,0
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,467
+		size = 12x13
+		anchor1 = 0,100
+		anchor2 = none
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+
+window "shop"
+	elem "shop"
+		type = MAIN
+		pos = 372,0
+		size = 640x393
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "preview"
+		type = OUTPUT
+		pos = 16,104
+		size = 160x272
+		anchor1 = 3,26
+		anchor2 = 28,96
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "button14"
+		type = BUTTON
+		pos = 88,336
+		size = 64x32
+		anchor1 = 14,85
+		anchor2 = 24,94
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #222b33
+		border = line
+		saved-params = "is-checked"
+		text = "Cancel"
+		command = "closeShop"
+		is-flat = true
+	elem "button24"
+		type = BUTTON
+		pos = 24,136
+		size = 64x16
+		anchor1 = 4,35
+		anchor2 = 14,39
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #222b33
+		border = line
+		saved-params = "is-checked"
+		text = "Reset"
+		command = "resetOverlayPreview"
+		is-flat = true
+	elem "shopPreview"
+		type = OUTPUT
+		pos = 24,152
+		size = 128x184
+		anchor1 = 4,39
+		anchor2 = 24,85
+		background-color = #222b33
+		border = line
+		saved-params = "max-lines"
+		style = "BIG IMG.icon {width: 96px; height: 96px}"
+	elem "button23"
+		type = BUTTON
+		pos = 24,336
+		size = 64x32
+		anchor1 = 4,85
+		anchor2 = 14,94
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #222b33
+		border = line
+		saved-params = "is-checked"
+		text = "Finished"
+		command = "purchaseShopOverlays"
+		is-flat = true
+	elem "button22"
+		type = BUTTON
+		pos = 112,104
+		size = 24x20
+		anchor1 = 18,26
+		anchor2 = 21,32
+		background-color = #303a47
+		saved-params = "is-checked"
+		text = ""
+		image = 'Icons\\red_arrow4.png'
+		command = "rotateShopPreviewNorth"
+		is-flat = true
+	elem "button21"
+		type = BUTTON
+		pos = 112,128
+		size = 24x20
+		anchor1 = 20,30
+		anchor2 = 24,35
+		background-color = #303a47
+		saved-params = "is-checked"
+		text = ""
+		image = 'Icons\\red_arrow3.png'
+		command = "rotateShopPreviewSouth"
+		is-flat = true
+	elem "button20"
+		type = BUTTON
+		pos = 128,116
+		size = 24x20
+		anchor1 = 20,30
+		anchor2 = 24,35
+		background-color = #303a47
+		saved-params = "is-checked"
+		text = ""
+		image = 'Icons\\red_arrow.png'
+		command = "rotateShopPreviewEast"
+		is-flat = true
+	elem "title"
+		type = LABEL
+		pos = 16,16
+		size = 608x32
+		anchor1 = 3,4
+		anchor2 = 98,12
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = ""
+	elem "button7"
+		type = BUTTON
+		pos = 96,116
+		size = 24x20
+		anchor1 = 15,30
+		anchor2 = 19,35
+		background-color = #303a47
+		saved-params = "is-checked"
+		text = ""
+		image = 'Icons\\arrow2.png'
+		command = "rotateShopPreviewWest"
+		is-flat = true
+	elem "message"
+		type = OUTPUT
+		pos = 16,48
+		size = 608x56
+		anchor1 = 3,12
+		anchor2 = 98,26
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "grid"
+		type = GRID
+		pos = 176,104
+		size = 448x272
+		anchor1 = 28,26
+		anchor2 = 98,96
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		show-lines = horizontal
+		highlight-color = #000000
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,379
+		size = 640x13
+		anchor1 = 0,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 640x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x392
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgeright"
+		type = LABEL
+		pos = 628,0
+		size = 12x392
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "cornertopright"
+		type = LABEL
+		pos = 628,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopright.PNG'
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornertopleft.PNG'
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 628,379
+		size = 12x13
+		anchor1 = 98,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,379
+		size = 12x13
+		anchor1 = 0,96
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\cornerbottomleft.PNG'
+
+window "skinputbig"
+	elem "skinputbig"
+		type = MAIN
+		pos = 372,0
+		size = 648x379
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "skinputbar2"
+		type = BUTTON
+		pos = 0,361
+		size = 648x15
+		anchor1 = 40,91
+		anchor2 = 56,99
+		font-family = "Verdana"
+		text-color = #ffffff
+		background-color = #070a12
+		border = line
+		saved-params = "is-checked"
+		text = "Ok"
+		command = ".skinputbat 1"
+		is-flat = true
+	elem "skinputbar"
+		type = INPUT
+		pos = 0,24
+		size = 648x336
+		anchor1 = 0,6
+		anchor2 = 100,91
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #04060b
+		border = line
+		saved-params = ""
+		multi-line = true
+		no-command = true
+	elem "skinput2_out"
+		type = OUTPUT
+		pos = 0,0
+		size = 648x25
+		anchor1 = 0,0
+		anchor2 = 100,7
+		text-color = #ffffff
+		background-color = #070a12
+		border = line
+		saved-params = "max-lines"
+
+window "yutput"
+	elem "yutput"
+		type = MAIN
+		pos = 372,0
+		size = 640x393
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		border = line
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "title"
+		type = LABEL
+		pos = 16,16
+		size = 608x32
+		anchor1 = 3,4
+		anchor2 = 98,12
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = ""
+	elem "message"
+		type = OUTPUT
+		pos = 16,48
+		size = 608x56
+		anchor1 = 3,12
+		anchor2 = 98,26
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "grid"
+		type = GRID
+		pos = 16,104
+		size = 608x272
+		anchor1 = 3,26
+		anchor2 = 98,96
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		show-lines = horizontal
+		highlight-color = #000000
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x392
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgeright"
+		type = LABEL
+		pos = 628,0
+		size = 12x392
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,379
+		size = 640x13
+		anchor1 = 0,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 640x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 628,379
+		size = 12x13
+		anchor1 = 98,96
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,379
+		size = 12x13
+		anchor1 = 0,96
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 628,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopright.PNG'
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopleft.PNG'
+
+window "window31"
+	elem "window31"
+		type = MAIN
+		pos = 372,0
+		size = 584x438
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Profile"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "Grid"
+		type = GRID
+		pos = 16,56
+		size = 544x360
+		anchor1 = 3,13
+		anchor2 = 96,95
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		highlight-color = #000000
+	elem "ContainerName"
+		type = LABEL
+		pos = 16,16
+		size = 544x32
+		anchor1 = 3,4
+		anchor2 = 96,11
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Container"
+	elem "edgeright"
+		type = LABEL
+		pos = 572,-8
+		size = 12x480
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,425
+		size = 584x13
+		anchor1 = 0,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 584x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopleft.PNG'
+	elem "cornertopright"
+		type = LABEL
+		pos = 572,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,425
+		size = 12x13
+		anchor1 = 0,97
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomleft.PNG'
+	elem "button9"
+		type = BUTTON
+		pos = 564,0
+		size = 20x20
+		anchor1 = 97,0
+		anchor2 = 100,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "closeContainer"
+		is-flat = true
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 572,425
+		size = 12x13
+		anchor1 = 98,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomright.PNG'
+
+window "ItemAssess"
+	elem "ItemAssess"
+		type = MAIN
+		pos = 372,0
+		size = 356x318
+		anchor1 = none
+		anchor2 = none
+		background-color = #2c2c2c
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "label36"
+		type = LABEL
+		pos = 36,37
+		size = 280x20
+		anchor1 = 4,14
+		anchor2 = 78,20
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+		align = left
+	elem "label28"
+		type = LABEL
+		pos = 168,76
+		size = 156x28
+		anchor1 = none
+		anchor2 = none
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "Boop"
+		type = BUTTON
+		pos = 267,295
+		size = 56x20
+		anchor1 = 75,93
+		anchor2 = 91,99
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = "is-checked"
+		text = "Close"
+		command = "CloseItems"
+	elem "Display1"
+		type = BUTTON
+		pos = 37,296
+		size = 56x20
+		anchor1 = 11,93
+		anchor2 = 27,99
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = "is-checked"
+		text = "Display"
+		command = "DisplayItems"
+	elem "Specials"
+		type = OUTPUT
+		pos = 36,180
+		size = 288x108
+		anchor1 = none
+		anchor2 = none
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = "max-lines"
+	elem "Type"
+		type = LABEL
+		pos = 112,57
+		size = 212x19
+		anchor1 = 29,20
+		anchor2 = 93,26
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+		align = left
+	elem "Durability"
+		type = LABEL
+		pos = 108,76
+		size = 60x28
+		anchor1 = none
+		anchor2 = none
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "ChakraEmpowerment"
+		type = LABEL
+		pos = 288,132
+		size = 36x28
+		anchor1 = 76,44
+		anchor2 = 93,53
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "Blunt"
+		type = LABEL
+		pos = 264,104
+		size = 60x28
+		anchor1 = 76,35
+		anchor2 = 93,44
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "Piercing"
+		type = LABEL
+		pos = 104,132
+		size = 52x28
+		anchor1 = 29,78
+		anchor2 = 46,84
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "Slashing"
+		type = LABEL
+		pos = 109,104
+		size = 51x28
+		anchor1 = 29,35
+		anchor2 = 46,44
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+	elem "Name"
+		type = LABEL
+		pos = 96,17
+		size = 228x20
+		anchor1 = 29,8
+		anchor2 = 93,14
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+		align = left
+	elem "label35"
+		type = LABEL
+		pos = 36,57
+		size = 76x19
+		anchor1 = 4,8
+		anchor2 = 21,14
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Type/Size"
+	elem "label34"
+		type = LABEL
+		pos = 36,160
+		size = 288x20
+		anchor1 = 4,14
+		anchor2 = 78,20
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Special Abilities"
+	elem "label33"
+		type = LABEL
+		pos = 156,132
+		size = 132x28
+		anchor1 = 46,38
+		anchor2 = 76,47
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Chakra Empowerment"
+	elem "label32"
+		type = LABEL
+		pos = 156,104
+		size = 108x28
+		anchor1 = 12,29
+		anchor2 = 29,37
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Blunt:"
+	elem "label31"
+		type = LABEL
+		pos = 36,132
+		size = 68x28
+		anchor1 = 12,29
+		anchor2 = 29,37
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Piercing:"
+	elem "label30"
+		type = LABEL
+		pos = 36,104
+		size = 73x28
+		anchor1 = 12,29
+		anchor2 = 29,37
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Slashing:"
+	elem "label29"
+		type = LABEL
+		pos = 36,76
+		size = 76x28
+		anchor1 = 12,20
+		anchor2 = 29,29
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Durability:"
+	elem "Type2"
+		type = LABEL
+		pos = 44,37
+		size = 280x20
+		anchor1 = 4,14
+		anchor2 = 78,20
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = ""
+		align = left
+	elem "LabelA"
+		type = LABEL
+		pos = 36,17
+		size = 60x20
+		anchor1 = 4,8
+		anchor2 = 21,14
+		font-family = "Verdana"
+		font-size = 8
+		text-color = #ffffff
+		background-color = #404040
+		saved-params = ""
+		text = "Name"
+
+window "jutsuApp"
+	elem "jutsuApp"
+		type = MAIN
+		pos = 372,0
+		size = 482x486
+		anchor1 = none
+		anchor2 = none
+		background-color = #303a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Jutsu Application"
+		statusbar = false
+		can-minimize = false
+		image = 'Xerif\\Skin\\JutsuAppSkin.png'
+		on-close = "closeEditApp"
+	elem "rankJutsuApp"
+		type = INPUT
+		pos = 227,291
+		size = 148x24
+		anchor1 = 47,60
+		anchor2 = 78,65
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label41"
+		type = LABEL
+		pos = 75,291
+		size = 151x24
+		anchor1 = 16,60
+		anchor2 = 47,65
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\JutsuRank.png'
+	elem "button38"
+		type = BUTTON
+		pos = 127,444
+		size = 190x40
+		anchor1 = 26,91
+		anchor2 = 66,100
+		background-color = #28d05f
+		border = line
+		saved-params = "is-checked"
+		text = ""
+		image = 'Xerif\\Skin\\submit.png'
+		command = "submitJutsuApp"
+		is-flat = true
+		button-type = pushbox
+	elem "durationJutsuApp"
+		type = INPUT
+		pos = 227,413
+		size = 148x24
+		anchor1 = 47,85
+		anchor2 = 78,90
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label40"
+		type = LABEL
+		pos = 75,413
+		size = 151x24
+		anchor1 = 16,85
+		anchor2 = 47,90
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Duration.png'
+	elem "notesJutsuApp"
+		type = INPUT
+		pos = 116,176
+		size = 311x64
+		anchor1 = 24,36
+		anchor2 = 89,49
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		multi-line = true
+		no-command = true
+	elem "label39"
+		type = LABEL
+		pos = 26,176
+		size = 90x24
+		anchor1 = 5,36
+		anchor2 = 24,41
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Notes.png'
+	elem "drainJutsuApp"
+		type = INPUT
+		pos = 227,383
+		size = 148x24
+		anchor1 = 47,79
+		anchor2 = 78,84
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label38"
+		type = LABEL
+		pos = 75,383
+		size = 151x24
+		anchor1 = 16,79
+		anchor2 = 47,84
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Drain.png'
+	elem "speedJutsuApp"
+		type = INPUT
+		pos = 227,353
+		size = 148x24
+		anchor1 = 47,73
+		anchor2 = 78,78
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label37"
+		type = LABEL
+		pos = 75,353
+		size = 151x24
+		anchor1 = 16,73
+		anchor2 = 47,78
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Speed.png'
+	elem "label36"
+		type = LABEL
+		pos = 27,256
+		size = 419x28
+		anchor1 = 6,53
+		anchor2 = 93,58
+		saved-params = ""
+		text = "For the options below, input letter grade ranks, such as D or D+ or type N/A if not required"
+		text-wrap = true
+	elem "offJutsuApp"
+		type = INPUT
+		pos = 227,322
+		size = 148x24
+		anchor1 = 47,66
+		anchor2 = 78,71
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label35"
+		type = LABEL
+		pos = 75,322
+		size = 151x24
+		anchor1 = 16,66
+		anchor2 = 47,71
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\OffenseDefense.png'
+	elem "descJutsuApp"
+		type = INPUT
+		pos = 115,48
+		size = 311x120
+		anchor1 = 24,10
+		anchor2 = 88,35
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		multi-line = true
+		no-command = true
+	elem "label34"
+		type = LABEL
+		pos = 25,48
+		size = 90x24
+		anchor1 = 5,10
+		anchor2 = 24,15
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Description.png'
+	elem "nameJutsuApp"
+		type = INPUT
+		pos = 115,14
+		size = 311x24
+		anchor1 = 24,3
+		anchor2 = 88,8
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		no-command = true
+	elem "label32"
+		type = LABEL
+		pos = 25,14
+		size = 90x24
+		anchor1 = 5,3
+		anchor2 = 24,8
+		background-color = #c0c0c0
+		border = line
+		saved-params = ""
+		text = ""
+		image = 'Xerif\\Skin\\Name2.png'
+
+window "jutsuAppDisplay"
+	elem "jutsuAppDisplay"
+		type = MAIN
+		pos = 281,0
+		size = 669x480
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		on-close = "closeApp"
+	elem "button39"
+		type = BUTTON
+		pos = 12,437
+		size = 84x40
+		anchor1 = 2,91
+		anchor2 = 14,99
+		saved-params = "is-checked"
+		text = "Edit"
+		command = "editJutsuApp"
+	elem "input1"
+		type = INPUT
+		pos = 312,432
+		size = 352x47
+		anchor1 = 47,90
+		anchor2 = 99,100
+		saved-params = ""
+		command = "jutsuappreply"
+	elem "label43"
+		type = LABEL
+		pos = 312,0
+		size = 360x20
+		anchor1 = 47,0
+		anchor2 = 100,4
+		text-color = #ffffff
+		background-color = #2c3a47
+		border = line
+		saved-params = ""
+		text = "Admin Chat"
+	elem "jutsuappchat"
+		type = OUTPUT
+		pos = 312,23
+		size = 356x409
+		anchor1 = 47,5
+		anchor2 = 100,95
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = "max-lines"
+	elem "techout"
+		type = OUTPUT
+		pos = 0,20
+		size = 312x412
+		anchor1 = 0,4
+		anchor2 = 47,90
+		text-color = #ffffff
+		background-color = #2b3a47
+		border = line
+		saved-params = "max-lines"
+	elem "label42"
+		type = LABEL
+		pos = 0,0
+		size = 312x20
+		anchor1 = 0,0
+		anchor2 = 47,4
+		text-color = #ffffff
+		background-color = #2c3a47
+		border = line
+		saved-params = ""
+		text = "Technique Information"
+
+window "Profile"
+	elem "Profile"
+		type = MAIN
+		pos = 372,0
+		size = 584x438
+		anchor1 = none
+		anchor2 = none
+		background-color = #2b3a47
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Profile"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		keep-aspect = true
+	elem "label10"
+		type = LABEL
+		pos = 408,400
+		size = 48x23
+		anchor1 = 70,91
+		anchor2 = 78,97
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Weight"
+		align = top
+	elem "label11"
+		type = LABEL
+		pos = 408,376
+		size = 48x24
+		anchor1 = 70,86
+		anchor2 = 78,92
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Height"
+		align = top
+	elem "afk"
+		type = LABEL
+		pos = 408,329
+		size = 48x24
+		anchor1 = 70,75
+		anchor2 = 78,81
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "AFK"
+		align = top
+	elem "label9"
+		type = LABEL
+		pos = 408,353
+		size = 48x23
+		anchor1 = 70,81
+		anchor2 = 78,86
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = ""
+		text = "Age"
+		align = top
+	elem "edgeright"
+		type = LABEL
+		pos = 572,-8
+		size = 12x480
+		anchor1 = 98,0
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeright.PNG'
+		image-mode = tile
+	elem "edgebottom"
+		type = LABEL
+		pos = 0,425
+		size = 584x13
+		anchor1 = 0,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgebottom.PNG'
+		image-mode = tile
+	elem "edgeleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x480
+		anchor1 = 0,0
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgeleft.PNG'
+		image-mode = tile
+	elem "edgetop"
+		type = LABEL
+		pos = 0,0
+		size = 584x13
+		anchor1 = 0,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\edgetop.PNG'
+		image-mode = tile
+	elem "cornertopleft"
+		type = LABEL
+		pos = 0,0
+		size = 12x13
+		anchor1 = 0,0
+		anchor2 = 2,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopleft.PNG'
+	elem "afktime"
+		type = OUTPUT
+		pos = 456,328
+		size = 112x26
+		anchor1 = 78,75
+		anchor2 = 97,81
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		is-visible = false
+		saved-params = "max-lines"
+	elem "cornertopright"
+		type = LABEL
+		pos = 572,0
+		size = 12x13
+		anchor1 = 98,0
+		anchor2 = 100,3
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornertopright.PNG'
+	elem "cornerbottomleft"
+		type = LABEL
+		pos = 0,425
+		size = 12x13
+		anchor1 = 0,97
+		anchor2 = 2,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomleft.PNG'
+	elem "StatOutput"
+		type = OUTPUT
+		pos = 408,32
+		size = 160x288
+		anchor1 = 70,7
+		anchor2 = 97,73
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "AgeOut"
+		type = OUTPUT
+		pos = 456,354
+		size = 112x23
+		anchor1 = 78,81
+		anchor2 = 97,86
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "button9"
+		type = BUTTON
+		pos = 564,0
+		size = 20x20
+		anchor1 = 97,0
+		anchor2 = 100,5
+		saved-params = "is-checked"
+		text = ""
+		image = 'Skin\\crossbutton.PNG'
+		command = "closeProfile"
+		is-flat = true
+	elem "HeightOut"
+		type = OUTPUT
+		pos = 456,377
+		size = 112x24
+		anchor1 = 78,86
+		anchor2 = 97,92
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "cornerbottomright"
+		type = LABEL
+		pos = 572,425
+		size = 12x13
+		anchor1 = 98,97
+		anchor2 = 100,100
+		saved-params = ""
+		text = ""
+		image = 'Skin\\cornerbottomright.PNG'
+	elem "WeightOut"
+		type = OUTPUT
+		pos = 456,401
+		size = 112x23
+		anchor1 = 78,91
+		anchor2 = 97,97
+		font-family = "Arial"
+		font-size = 7
+		text-color = #fffdcb
+		background-color = #303a47
+		saved-params = "max-lines"
+	elem "ProfileBrowse"
+		type = BROWSER
+		pos = 16,16
+		size = 384x405
+		anchor1 = 3,4
+		anchor2 = 68,96
+		background-color = #2c2c2c
+		saved-params = ""
+

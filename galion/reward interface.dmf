@@ -1,0 +1,80 @@
+macro "macro"
+	elem 
+		name = "North+REP"
+		command = ".north"
+	elem 
+		name = "South+REP"
+		command = ".south"
+	elem 
+		name = "East+REP"
+		command = ".east"
+	elem 
+		name = "West+REP"
+		command = ".west"
+	elem 
+		name = "Northeast+REP"
+		command = ".northeast"
+	elem 
+		name = "Northwest+REP"
+		command = ".northwest"
+	elem 
+		name = "Southeast+REP"
+		command = ".southeast"
+	elem 
+		name = "Southwest+REP"
+		command = ".southwest"
+	elem 
+		name = "Center+REP"
+		command = ".center"
+
+
+menu "menu"
+	elem 
+		name = "&Quit"
+		command = ".quit"
+		category = "&File"
+		saved-params = "is-checked"
+
+
+window "rewardinterface"
+	elem "rewardinterface"
+		type = MAIN
+		pos = 410,106
+		size = 500x413
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Reward Interface"
+		statusbar = false
+	elem "label1"
+		type = LABEL
+		pos = 296,328
+		size = 168x20
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		border = line
+		saved-params = ""
+		text = "Activity Points: 0"
+	elem "button1"
+		type = BUTTON
+		pos = 276,304
+		size = 204x20
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "is-checked"
+		text = "PlayerName (BYOND Key)"
+		command = ""
+	elem "output"
+		type = OUTPUT
+		pos = 0,0
+		size = 480x296
+		anchor1 = none
+		anchor2 = none
+		background-color = #ffffff
+		border = line
+		saved-params = "max-lines"
+

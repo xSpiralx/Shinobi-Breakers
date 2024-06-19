@@ -1,3 +1,0 @@
-//Orphan savefile buffer 'layer' found on Wed May 24 15:46:03 2023
-layer = 93000000
-//End of exported data.

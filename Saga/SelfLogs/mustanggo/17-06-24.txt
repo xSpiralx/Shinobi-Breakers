@@ -1,0 +1,4 @@
+<br><font size=-3><font color = white><font color=#009966>Bogum test</font></font></font>
+<br><font size=-3><b><span style="color:#009966"><a href=?src=[0x3000046];action=name;character=9d9b47b8addf5be711c1edad23196301edd93efcafba8862453480860f337e02 style = "text-decoration: none; color: #009966;">The crimson-haired boy</a> says:</b><span style="color:#009966"><font color = white> test</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#009966"><a href=?src=[0x3000046];action=name;character=9d9b47b8addf5be711c1edad23196301edd93efcafba8862453480860f337e02 style = "text-decoration: none; color: #009966;">The crimson-haired boy</a> says:</b><span style="color:#009966"><font color = white> test tes</font></font></font></span></span>
+<br><font size=-3><b><span style="color:#009966">Akimichi, Kobo says:</b><span style="color:#009966"><font color = white> Hmmm.</font></font></font></span></span>
