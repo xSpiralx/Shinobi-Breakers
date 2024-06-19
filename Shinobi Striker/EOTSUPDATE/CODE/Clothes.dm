@@ -2074,12 +2074,12 @@ obj/items/Clothing
 				if(!ismob(M)) return
 				if(!Assigned)
 					icon_state="Inv"
-					Vill="[M.Clan]"
+					Vill="[M.Village]"
 					Assigned=1
 			if(!Vill)
 				var/mob/M=loc
 				if(!ismob(M)) return
-				Vill="[M.Clan]"
+				Vill="[M.Village]"
 		Click()
 			..()
 			if(src in usr.contents)
@@ -2087,13 +2087,13 @@ obj/items/Clothing
 					src.worn = 1
 					src.suffix = "Equipped"
 					usr.overlays += src.icon
-					usr.Headbands=Vill
-					usr.mouse_over_pointer=image('Symbols.dmi',"[Vill]")
+					usr.Headbands=src.Vill
+					usr.mouse_over_pointer=icon('Symbols.dmi',"[Vill]")
 				else
 					src.worn = 0
 					src.suffix=""
 					usr.overlays -= src.icon
-					usr.mouse_over_pointer=image('Symbols.dmi',"None")
+					usr.mouse_over_pointer=icon('Symbols.dmi',"None")
 					usr.Headbands=null
 
 

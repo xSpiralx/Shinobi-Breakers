@@ -5,6 +5,7 @@ obj/proc
 mob/var
 	tmp/clicked=0
 
+
 	birthmonth
 	birthday
 	birthyear

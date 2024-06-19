@@ -84,14 +84,21 @@ mob/proc/PerkRankCheck(perk)
 		if(P.rank_req == usr.Class)
 			return TRUE
 */
-
-
 /*/mob/var
     OriginsBonus = 0
-    lifetime_progress_points = 0
-    progress_points = 0
-    stat_points = 0
-    var/obj/items/Ryo ryo
+
+/mob/proc/stat_reset()
+    // Reset all relevant stats to default values
+    strength = 1
+    endurance = 1
+    agility = 1
+    speed = 1
+    stamina = 1
+    control = 1
+    // Update other necessary variables and UI
+    if(character_box)
+        character_box.update_stats(src)
+    src << "Your stats have been reset."
 
 /mob/proc/starting_incentive_system()
     if(OriginsBonus)
@@ -104,6 +111,9 @@ mob/proc/PerkRankCheck(perk)
 
     switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get FULLY respec'd, and will not be able to claim another one on this character if the incentive increases"))
         if("I Agree")
+            // Reset stats before applying the incentive
+            stat_reset()
+
             var needed_progress_points = 50 - lifetime_progress_points
             var total_progress_points = progress_points + needed_progress_points
             var total_stat_points = 50 + 15
@@ -123,12 +133,22 @@ mob/proc/PerkRankCheck(perk)
                 hasryo = R
 
             if(hasryo)
-                hasryo.amount = 2000
+                hasryo.amount += 2000
                 hasryo.Update()
             else
                 var/obj/items/Ryo/R = new(src)
                 R.amount = 2000
                 R.Update()
+                src.contents += R
+
+            // Give the player a headband
+            new/obj/items/Clothing/Headband(src)
+
+
+            src << output("You've been rewarded point(s) and received a headband as part of an incentive.", "outputall.output")
+
+            if(character_box)
+                character_box.update_stats(src)
 
             src << "You've successfully claimed your Starting Incentive and received 2000 ryo."
 
@@ -143,8 +163,10 @@ mob/proc/PerkRankCheck(perk)
     Starting_Incentive()
         set category = "Commands"
         starting_incentive_system()
-*/
 
+
+
+*/
 
 
 

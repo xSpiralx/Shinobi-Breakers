@@ -19064,3 +19064,1139 @@ runtime error: Cannot read null.learn_req
 proc name: update learnreq (/obj/progress_card/proc/update_learnreq)
   source file: Xerif/Jutsu/Progress.dm,327
 Warning: further proc crash messages are being suppressed to prevent overload...
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+ARCHIVE: Error occurred while saving: 
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+/character_box (/character_box): New(Jeff (/mob))
+Jeff (/mob): character box()
+Jeff (/mob): Finalizee()
+Jeff (/mob): Creation()
+Jeff (/mob): Start()
+Jeff (/mob): Start()
+Jeff (/mob): title screen()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+/character_box (/character_box): expand(Jeff (/mob))
+/character_box (/character_box): show()
+Jeff (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+/character_box (/character_box): expand(Jeff (/mob))
+/character_box (/character_box): expand stats(Jeff (/mob))
+Jeff (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): activity reward(1)
+progress loop()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): activity reward(1)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,691
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(323)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): activity reward(0)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,691
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(323)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): activity reward(0)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): togglenums(Jeff (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): togglenums(Jeff (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): togglenums(Jeff (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): togglenums(Jeff (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=4;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update stats(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Jeff (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Jeff (/mob))
+/character_box (/character_box): update info(Jeff (/mob))
+Jeff (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): New(Spiral (/mob))
+Spiral (/mob): character box()
+Spiral (/mob): Finalizee()
+Spiral (/mob): Creation()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): show()
+Spiral (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): expand stats(Spiral (/mob))
+Spiral (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): activity reward(1)
+progress loop()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): activity reward(1)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,691
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(323)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): activity reward(0)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,691
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(323)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): activity reward(0)
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: null
+  src: /character_box (/character_box)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+progress loop()
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,112,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): set progress(0)
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=5;left=1;butto...")
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+runtime error: Cannot modify null.icon_state.
+proc name: set progress (/character_box/proc/set_progress)
+  source file: Xerif/Skin/_lettercharacterbox.dm,693
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): New(Spiral (/mob))
+Spiral (/mob): character box()
+Spiral (/mob): Finalizee()
+Spiral (/mob): Creation()
+Spiral (/mob): Start()
+Spiral (/mob): Start()
+Spiral (/mob): title screen()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): show()
+Spiral (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+/character_box (/character_box): expand(Spiral (/mob))
+/character_box (/character_box): expand stats(Spiral (/mob))
+Spiral (/mob): character box()
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): togglenums(Spiral (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): togglenums(Spiral (/mob))
+the num button (/num_button): Click(null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+Guest-329696928 (/client): Click(the num button (/num_button), null, "mappane.map", "icon-x=3;icon-y=3;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update stats(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+  usr: Spiral (/mob)
+  src: /character_box (/character_box)
+  usr.loc: Era of the Shinobi (112,111,8) (/turf/Konoha/Savior/saviorturf)
+  call stack:
+/character_box (/character_box): update bars(Spiral (/mob))
+/character_box (/character_box): update info(Spiral (/mob))
+Spiral (/mob): allocate stats("control")
+the allocate button (/allocate_button): Click(null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+Guest-329696928 (/client): Click(the allocate button (/allocate_button), null, "mappane.map", "icon-x=5;icon-y=4;left=1;butto...")
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+runtime error: Undefined operation: 50 / null
+proc name: update bars (/character_box/proc/update_bars)
+  source file: Xerif/Skin/_lettercharacterbox.dm,722
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.

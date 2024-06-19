@@ -18,27 +18,27 @@ turf/OriginZConnectors
 	zOneEast
 		exitx = 2
 		exity = 0
-		exitz = 24
+		exitz = 9
 
 	zOneNorth
 		exitx = 0
 		exity = 1
-		exitz = 5
+		exitz = 13
 
 	zTwoEast
 		exitx = 1
 		exity = 0
-		exitz = 3
+		exitz = 10
 
 	zTwoWest
 		exitx = 199
 		exity = 0
-		exitz = 1
+		exitz = 12
 
 	zTwoNorth
 		exitx = 0
 		exity = 1
-		exitz = 6
+		exitz = 14
 
 	zThreeEast
 		exitx = 2
@@ -63,12 +63,12 @@ turf/OriginZConnectors
 	zFourNorth
 		exitx = 119
 		exity = 1
-		exitz = 7
+		exitz = 4
 
 	zFiveEast
 		exitx = 1
 		exity = 0
-		exitz = 6
+		exitz = 14
 
 	zFiveNorth
 		exitx = 0
@@ -78,12 +78,12 @@ turf/OriginZConnectors
 	zFiveSouth
 		exitx = 0
 		exity = 199
-		exitz = 1
+		exitz = 12
 
 	zSixEast
 		exitx = 1
 		exity = 0
-		exitz = 7
+		exitz = 15
 
 	zSixNorth
 		exitx = 0
@@ -93,12 +93,12 @@ turf/OriginZConnectors
 	zSixSouth
 		exitx = 0
 		exity = 199
-		exitz = 2
+		exitz = 9
 
 	zSixWest
 		exitx = 199
 		exity = 0
-		exitz = 7
+		exitz = 13
 
 	zSevenEast
 		exitx = 1
@@ -108,22 +108,22 @@ turf/OriginZConnectors
 	zSevenNorth
 		exitx = 0
 		exity = 1
-		exitz = 11
+		exitz = 18
 
 	zSevenSouth
 		exitx = 0
 		exity = 199
-		exitz = 3
+		exitz = 10
 
 	zSevenWest
 		exitx = 199
 		exity = 0
-		exitz = 6
+		exitz = 14
 
 	zEightNorth
 		exitx = 0
 		exity = 1
-		exitz = 12
+		exitz = 19
 
 	zEightSouth
 		exitx = 0
@@ -133,12 +133,12 @@ turf/OriginZConnectors
 	zEightWest
 		exitx = 199
 		exity = 0
-		exitz = 7
+		exitz = 15
 
 	zNineEast
 		exitx = 1
 		exity = 0
-		exitz = 10
+		exitz = 17
 
 	zNineNorth
 		exitx = 0
@@ -173,27 +173,27 @@ turf/OriginZConnectors
 	zElevenEast
 		exitx = 1
 		exity = 0
-		exitz = 12
+		exitz = 19
 
 	zElevenNorth
 		exitx = 0
 		exity = 1
-		exitz = 15
+		exitz = 22
 
 	zElevenSouth
 		exitx = 0
 		exity = 199
-		exitz = 7
+		exitz = 15
 
 	zElevenWest
 		exitx = 199
 		exity = 0
-		exitz = 10
+		exitz = 17
 
 	zTwelveNorth
 		exitx = 0
 		exity = 1
-		exitz = 16
+		exitz = 23
 
 	zTwelveSouth
 		exitx = 0
@@ -203,7 +203,7 @@ turf/OriginZConnectors
 	zTwelveWest
 		exitx = 199
 		exity = 0
-		exitz = 11
+		exitz = 18
 
 	zThirteenNorth
 		exitx = 0
@@ -218,12 +218,12 @@ turf/OriginZConnectors
 	zThirteenEast
 		exitx = 1
 		exity = 0
-		exitz = 14
+		exitz = 21
 
 	zFourteenEast
 		exitx = 1
 		exity = 0
-		exitz = 15
+		exitz = 22
 
 	zFourteenNorth
 		exitx = 0
@@ -233,12 +233,12 @@ turf/OriginZConnectors
 	zFourteenSouth
 		exitx = 0
 		exity = 199
-		exitz = 10
+		exitz = 17
 
 	zFourteenWest
 		exitx = 199
 		exity = 0
-		exitz = 13
+		exitz = 20
 
 	zFifteenEast
 		exitx = 1
@@ -248,37 +248,37 @@ turf/OriginZConnectors
 	zFifteenNorth
 		exitx = 0
 		exity = 1
-		exitz = 19
+		exitz = 25
 
 	zFifteenSouth
 		exitx = 0
 		exity = 199
-		exitz = 11
+		exitz = 18
 
 	zFifteenWest
 		exitx = 199
 		exity = 0
-		exitz = 14
+		exitz = 21
 
 	zSixteenNorth
 		exitx = 0
 		exity = 1
-		exitz = 20
+		exitz = 26
 
 	zSixteenSouth
 		exitx = 0
 		exity = 199
-		exitz = 12
+		exitz = 19
 
 	zSixteenWest
 		exitx = 199
 		exity = 0
-		exitz = 15
+		exitz = 22
 
 	zSeventeenEast
 		exitx = 1
 		exity = 0
-		exitz = 18
+		exitz = 24
 
 	zSeventeenSouth
 		exitx = 0
@@ -288,12 +288,12 @@ turf/OriginZConnectors
 	zEighteenEast
 		exitx = 1
 		exity = 0
-		exitz = 19
+		exitz = 25
 
 	zEighteenSouth
 		exitx = 0
 		exity = 199
-		exitz = 14
+		exitz = 21
 
 	zEighteenWest
 		exitx = 199
@@ -303,12 +303,12 @@ turf/OriginZConnectors
 	zNineteenEast
 		exitx = 1
 		exity = 0
-		exitz = 20
+		exitz = 26
 
 	zNineteenSouth
 		exitx = 0
 		exity = 199
-		exitz = 15
+		exitz = 22
 
 	zNineteenWest
 		exitx = 199
@@ -318,12 +318,12 @@ turf/OriginZConnectors
 	zTwentySouth
 		exitx = 0
 		exity = 199
-		exitz = 16
+		exitz = 23
 
 	zTwentyWest
 		exitx = 199
 		exity = 0
-		exitz = 19
+		exitz = 25
 
 	zFixIronTempleWest
 		exitx = 1
