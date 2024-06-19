@@ -128,7 +128,7 @@ mob/proc/AdminCheck()
 	if(key in Admin3s) AdminGive(3)
 	if(key in EventAdmins) EventAdminGive()
 	if(key in list(""))EventAdminGive(1)
-	if(key in list("Sidious26", ))AdminGive(2) // This is Moderator / CM Level
+	if(key in list("Sidious26","EC Kusurou", "Delphonse" ))AdminGive(2) // This is Moderator / CM Level
 	if(key in list("Spiralord", "Rosehaven", "Hanza Sky", "Katnappe", "Sidious26", "Kristuria")) AdminGive(3) // This is Administrator Level
 	if(key in list("Spiralord", "CConlin216", "ZennGod", "Are You Done Yet", "ChainsOfMadness", "Katnappe")) AdminGive(4) // This is Head Admin Level
 	if(key in list("Spiralord")) AdminGive(5) //This is Owner level

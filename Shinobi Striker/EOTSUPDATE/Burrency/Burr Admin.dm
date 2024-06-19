@@ -86,21 +86,67 @@ mob/proc/PerkRankCheck(perk)
 */
 
 
-/*/mob/var/OriginsBonus = 0
-mob/verb
+/*/mob/var
+    OriginsBonus = 0
+    lifetime_progress_points = 0
+    progress_points = 0
+    stat_points = 0
+    var/obj/items/Ryo ryo
+
+/mob/proc/starting_incentive_system()
+    if(OriginsBonus)
+        src << "You've already claimed your Starting Incentive."
+        return
+
+    if(lifetime_progress_points >= 50)
+        src << "You've got too much PP to get your bonus."
+        return
+
+    switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get FULLY respec'd, and will not be able to claim another one on this character if the incentive increases"))
+        if("I Agree")
+            var needed_progress_points = 50 - lifetime_progress_points
+            var total_progress_points = progress_points + needed_progress_points
+            var total_stat_points = 50 + 15
+
+            // Adjust lifetime_progress_points and progress_points
+            lifetime_progress_points = 50
+            progress_points = total_progress_points
+
+            // Adjust stat_points
+            stat_points = total_stat_points
+
+            // Set the bonus flag and give ryo
+            OriginsBonus = 1
+
+            var/obj/items/Ryo/hasryo
+            for(var/obj/items/Ryo/R in contents)
+                hasryo = R
+
+            if(hasryo)
+                hasryo.amount = 2000
+                hasryo.Update()
+            else
+                var/obj/items/Ryo/R = new(src)
+                R.amount = 2000
+                R.Update()
+
+            src << "You've successfully claimed your Starting Incentive and received 2000 ryo."
+
+            // Update character stats if there's a character box
+            if(character_box)
+                character_box.update_stats(src)
+
+        else
+            src << "You've selected to not get your Starting Incentive or did not type 'I Agree' exactly as shown."
+
+/mob/verb
     Starting_Incentive()
         set category = "Commands"
-        if(usr.OriginsBonus == FALSE && (usr.lifetime_progress_points < 80))
-            switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get FULLY respec'd, and will not be able to claim another one on this character if the incentive increases"))
-                if("I Agree")
-                    usr.lifetime_progress_points = 80
-                    usr.OriginsBonus = 1
-                    usr.progress_points = 80
-                    usr.stat_points = 95
-                else
-                    src << "You've selected to not get your Starting Incentive or did not type 'I Agree' exactly as shown."
-        else
-            src << "You've got too much PP to get your bonus" */
+        starting_incentive_system()
+*/
+
+
+
 
 mob/var/ConfirmedClan = FALSE
 

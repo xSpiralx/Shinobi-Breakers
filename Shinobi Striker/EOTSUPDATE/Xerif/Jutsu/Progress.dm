@@ -121,7 +121,7 @@ mob/Admin6
 
 /proc/get_point_bonus(mob/M)
 	//var/total = M.total_stats() + M.stat_points
-	if(M.lifetime_progress_points < 50) return 3
+	if(M.lifetime_progress_points < 50) return 5
 	if(M.lifetime_progress_points < 100) return 5
 	if(M.lifetime_progress_points < 150) return 4
 	if(M.lifetime_progress_points < 250) return 3
