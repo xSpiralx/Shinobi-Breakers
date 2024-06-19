@@ -736,3 +736,8 @@
 19-06-24 15:56:mystifii is about to load
 19-06-24 15:56:mystifii is loading
 19-06-24 15:56:mystifii is loaded
+19-06-24 23:01: World Started
+19-06-24 23:04:spiralord is continuing a character
+19-06-24 23:04:spiralord is about to load
+19-06-24 23:04:spiralord is loading
+19-06-24 23:04:spiralord is loaded
