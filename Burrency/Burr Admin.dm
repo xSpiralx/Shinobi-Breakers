@@ -84,7 +84,7 @@ mob/proc/PerkRankCheck(perk)
 		if(P.rank_req == usr.Class)
 			return TRUE
 */
-/*/mob/var
+/mob/var
     OriginsBonus = 0
 
 /mob/proc/stat_reset()
@@ -93,7 +93,7 @@ mob/proc/PerkRankCheck(perk)
     endurance = 1
     agility = 1
     speed = 1
-    stamina = 1
+    stamina = 9
     control = 1
     // Update other necessary variables and UI
     if(character_box)
@@ -166,7 +166,7 @@ mob/proc/PerkRankCheck(perk)
 
 
 
-*/
+
 
 
 

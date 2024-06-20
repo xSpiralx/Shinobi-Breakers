@@ -3,7 +3,7 @@
 
 var/autogenin= 0
 var/autogeninvalue= 0
-var/list/ActiveVillages=list("Amegakure")//"Uzushiogakure", "Iwagakure",", "Akihabara" , "Yukigakure") //("Konohagakure", "Kirigakure", "Sunagakure", "Ancestor Village")
+var/list/ActiveVillages=list("Amegakure", "Iwagakure", "Akihabara")//"Uzushiogakure", "Iwagakure",", "Akihabara" , "Yukigakure") //("Konohagakure", "Kirigakure", "Sunagakure", "Ancestor Village")
 var/list/InactiveVillages=list()
 mob/var/LastAdminReward = 0
 mob/var/LastRewardTime = 0
