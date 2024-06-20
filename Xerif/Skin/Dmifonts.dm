@@ -56,8 +56,8 @@ dmifont
 	var/icon
 
 	/*
-		Anti-aliasing is supported via n×n squares. Essentially the font is
-		rendered n times larger by the utility, and there's n×n times as much
+		Anti-aliasing is supported via nï¿½n squares. Essentially the font is
+		rendered n times larger by the utility, and there's nï¿½n times as much
 		data. Do not set this var manually to display your font with
 		anti-aliasing; it will do nothing.
 	 */
