@@ -1,7 +1,7 @@
 //Clan rolling is long and often changed. Breaking it out.
 mob/proc
 	ClanWtf()
-		if(src.Village=="Otogakure")
+		/*if(src.Village=="Otogakure")*/
 		/*	if(archive.hyuuga_on) switch(custom_bigalert1(hyuuga_clan_info, "All members born into this clan possess the Byakugan, a kekkei genkai that gives them extended fields of vision and the ability to see through solid objects and even the chakra circulatory system, amongst other things.", 'clan_hyuuga.png', "Would you like to be born as a member of the Hyuuga clan?"))
 				if("yes")
 					src.Hyuuga=1
