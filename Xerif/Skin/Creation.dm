@@ -57,6 +57,7 @@ mob/proc
 
 	//	respec_check()
 		reset_mision_check()
+		HairCheck()
 		update_jutsu()
 		ShinobiKitUpdate()
 		/*spawn(20)src.DelOldWeap()*/
