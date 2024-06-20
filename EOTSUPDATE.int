@@ -2,21 +2,21 @@
 /*
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 0.750
-LAST_COMPILE_TIME: 1718847969
+LAST_COMPILE_TIME: 1718856468
+DIR: SSO2.0 Perk Art SSO2.0 Perk Art\Era Perks SSO2.0 Perk Art\Era Perks\Kenjutsu & Weapons Related SSO2.0 Perk Art\Era Perks\Puppets & Fan SSO2.0 Perk Art\Era Perks\Puppets & Fan\Fan Perks SSO2.0 Perk Art\Era Perks\Uniques SSO2.0 Perk Art\Era Perks\Uniques\General Uniques & Misc Perks AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation galion Icons Icons\BuildingsOutside Icons\Clothing IssacAdd Map Soto warring state map files warring state map files\NewIcons Xerif Xerif\Skin Xerif\Skin\GuideButtons 
 PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
-DIR: AllSmiles AllSmiles\newclothes BBALL\BBALL Burrency Burrency\backup Burrency\backup\backup Burrency\BurrencyIcons Burrency\TreeImages CODE Cody Cody\Icons Creation galion Icons Icons\BuildingsOutside Icons\Clothing Icons\The Extras! IssacAdd IssacAdd\backup Map Rehaul SSO2PERKS warring state map files warring state map files\NewIcons Xerif Xerif\Skin Xerif\Skin\GuideButtons 
 AUTO_FILE_DIR: ON
 PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
 PACKAGE_DME_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_src.zip
 LAST_COMPILE_VERSION: 515.1640
-PACKAGE_DME_START: 
 PACKAGE_TYPE: 0
+PACKAGE_DME_START: 
+WINDOW: Map\bongmap.dmm;warring state map files\NewIcons\intermap connections.dm;IssacAdd\Shinobi Origins Map.dmm;Burrency\backup\2023 Warring Map.dmm;Xerif\Skin\Skin.dm;CODE\Incentive.dm;warring state map files\Code.dm;CODE\Admin.dm;CODE\Crafting.dm;Icons\Kunai.dmi;CODE\Weapons.dm;Soto\automated_missions\_mission.dm;Soto\automated_missions\delivery_mission.dm;CODE\Attributes.dm;CODE\Perks.dm;CODE\Starterperks.dm;Cody\AdminC.dm;Cody\NewNPCs.dm;Soto\NewAdminVerbs.dm;Soto\NewWeaponSuppliers.dm;Soto\WorldDatabase.dm;Soto\NewInventory.dm;Soto\AllWeapons.dmi;Soto\NewShinobiKit.dm
 PACKAGE_DME_INFO: 
-WINDOW: Map\bongmap.dmm;warring state map files\NewIcons\intermap connections.dm;IssacAdd\Shinobi Origins Map.dmm;Burrency\backup\2023 Warring Map.dmm;Xerif\Skin\Skin.dm;CODE\Incentive.dm;warring state map files\Code.dm;CODE\Admin.dm;CODE\Crafting.dm;CODE\Weapons.dm;CODE\Clothes 2.dm;CODE\Clothes.dm;CODE\Combat.dm;Icons\Symbols.dmi;CODE\Archive.dm;Burrency\updated_weapons.dm;Burrency\Weapons Update.dm;CODE\NPCs.dm
 FILE: CODE\Crafting.dm
 MAP_INSTANCE_MODE: copy
-PACKAGE_DME_DEMO: 
 PACKAGE_DMB_NAME: C:\Users\18108\Desktop\NindoHF.zip
+PACKAGE_DME_DEMO: 
 */
 // END_INTERNALS

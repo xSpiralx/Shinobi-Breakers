@@ -48,7 +48,7 @@ turf/OriginZConnectors
 	zThreeWest
 		exitx = 199
 		exity = 0
-		exitz = 2
+		exitz = 9
 
 	zThreeNorth
 		exitx = 0

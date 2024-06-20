@@ -22,6 +22,40 @@
 				src.suffix=""
 				usr.overlays -= src.icon
 
+mob/var/tmp/mob/NPC/Akihibara_Weapon_Dealer
+
+
+
+mob/NPC/Akihibara_Weapon_Dealer
+	icon='Base_Pale.dmi'
+	icon_state=""
+	attackable=0
+	var/assigned_regions = "Akihibara"
+	var/minerals_available = 0
+	New()
+		spawn()src.AddHair()
+		spawn()src.AddOverlays()
+		..()
+
+	Click()
+		if(get_dist(src,usr)>2) return
+		if(usr.Village == "Akihibara")
+			usr.current_vendor = src
+
+			winset(usr,"NewShop","is-visible=true")
+			winset(usr,"NewShop.grid","cells=0x0")
+			var/row = 1
+
+			usr << output("<font color=#DDBE0D><b>Items", "NewShop.grid:1,1")
+			usr << output("<font color=#DDBE0D><b>Price", "NewShop.grid:2,1")
+			usr << output("<font color=#DDBE0D><b>Purchase", "NewShop.grid:3,1")
+
+			for(var/obj/items/weapons/o in archive)
+				if(usr.Village == o.village || o.village == "Global")
+					row++
+					usr << output("<a href=?databook_[o.databookname]>[o.name]", "NewShop.grid:1,[row]")
+					usr << output("[o.mineral_cost] minerals", "NewShop.grid:2,[row]")
+					usr << output("<a href=?src=\ref[usr];action=Buy;weap=[md5(o.name)]>Buy</a>", "NewShop.grid:3,[row]")
 
 mob/var/tmp/mob/NPC/Uzushiogakure_Weapon_Dealer/current_vendor
 
