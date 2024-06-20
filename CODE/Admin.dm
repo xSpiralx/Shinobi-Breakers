@@ -3,7 +3,7 @@
 
 var/autogenin= 0
 var/autogeninvalue= 0
-var/list/ActiveVillages=list("Iwagakure", "Amegakure", "Akihabara")//"Uzushiogakure" , "Yukigakure") //("Konohagakure", "Kirigakure", "Sunagakure", "Ancestor Village")
+var/list/ActiveVillages=list("Amegakure")//"Uzushiogakure", "Iwagakure",", "Akihabara" , "Yukigakure") //("Konohagakure", "Kirigakure", "Sunagakure", "Ancestor Village")
 var/list/InactiveVillages=list()
 mob/var/LastAdminReward = 0
 mob/var/LastRewardTime = 0
@@ -1339,7 +1339,7 @@ mob/Admin3
 			hb.Vill = "[M.Village]"
 			M.contents += hb*/
 			M.contents += new/obj/items/Clothing/Headband/
-			
+
 
 		Make_Chunin(mob/M in world)
 			set category = "Admin"

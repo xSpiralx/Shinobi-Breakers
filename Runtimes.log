@@ -20204,3 +20204,4 @@ Initiating Begin()
 ARCHIVE: Loaded NPCs.
 ARCHIVE: Loaded PayRates.
 ARCHIVE: Error occurred while saving: Safety violation: tried to access 'C:\Users\Administrator\Documents\GitHub\Shinobi-Breakers\archive_savefiles\archive_gmhelps_tmp' outside of current directory.
+ARCHIVE: Error occurred while saving: Safety violation: tried to access 'C:\Users\Administrator\Documents\GitHub\Shinobi-Breakers\archive_savefiles\archive_jutsu_tmp' outside of current directory.
