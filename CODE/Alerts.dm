@@ -5,7 +5,7 @@ client/Topic(href, list/href_list)
 		if(skin_tab["current"] != value)
 			skin_tab["current"] = value
 			var/text = skin_tab[skin_tab["current"]]
-			src << output(list2params(list(text)), "mainscreen.tabs:replace")
+			src << output(list2params(list(text)), "chat.tabs:replace")
 			switch(value)
 				if("alltab")
 					winset(src, "chat.output", "left=outputall")

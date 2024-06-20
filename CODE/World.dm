@@ -8,6 +8,7 @@ world
 	name = "Shinobi Breakers"
 	status = "Version 1.0"
 	fps = 40
+	view = 32
 	version = 1
 	cache_lifespan=0
 	loop_checks=0

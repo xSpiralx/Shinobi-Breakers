@@ -19,7 +19,7 @@ client
 		mob.TextName.pixel_x = ((length(mob.getStrangerNameNoHTML(M)) * -4) / 2) + 11
 		mob.TextName.layer=900
 		var obj/o = drawfont.QuickText(src, "[mob.getStrangerNameNoHTML(M)]", "#FFFFFF", 1, layer = 93000000)//M.nameInText
-		o.plane = 99
+		//o.plane = 1
 		mob.TextName.overlays+=o
 		src<<mob.TextName
 	//	else
