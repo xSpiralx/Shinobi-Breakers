@@ -105,21 +105,21 @@ mob/proc/PerkRankCheck(perk)
         src << "You've already claimed your Starting Incentive."
         return
 
-    if(lifetime_progress_points >= 50)
+    if(lifetime_progress_points >= 60)
         src << "You've got too much PP to get your bonus."
         return
 
-    switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get FULLY respec'd, and will not be able to claim another one on this character if the incentive increases"))
+    switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get Stat reset, and will not be able to claim another one on this character if the incentive increases"))
         if("I Agree")
             // Reset stats before applying the incentive
             stat_reset()
 
-            var needed_progress_points = 50 - lifetime_progress_points
+            var needed_progress_points = 60 - lifetime_progress_points
             var total_progress_points = progress_points + needed_progress_points
-            var total_stat_points = 50 + 15
+            var total_stat_points = 60 + 15
 
             // Adjust lifetime_progress_points and progress_points
-            lifetime_progress_points = 50
+            lifetime_progress_points = 60
             progress_points = total_progress_points
 
             // Adjust stat_points
@@ -133,11 +133,11 @@ mob/proc/PerkRankCheck(perk)
                 hasryo = R
 
             if(hasryo)
-                hasryo.amount += 2000
+                hasryo.amount += 3000
                 hasryo.Update()
             else
                 var/obj/items/Ryo/R = new(src)
-                R.amount = 2000
+                R.amount = 3000
                 R.Update()
                 src.contents += R
 
@@ -150,7 +150,7 @@ mob/proc/PerkRankCheck(perk)
             if(character_box)
                 character_box.update_stats(src)
 
-            src << "You've successfully claimed your Starting Incentive and received 2000 ryo."
+            src << "You've successfully claimed your Starting Incentive and received 3000 ryo."
 
             // Update character stats if there's a character box
             if(character_box)

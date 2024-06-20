@@ -29,12 +29,12 @@
 
 mob/var/tmp/mob/NPC/Akihibara_Weapon_Dealer
 
-mob/NPC/Akihibara_Weapon_Dealer
+mob/NPC/Akihabara_Weapon_Dealer
     icon='Base_Pale.dmi'
     icon_state=""
     attackable=0
     var/assigned_regions = "Akihabara"
-    var/minerals_available = 0
+    var/minerals_available = 999999999
     New()
         spawn() src.AddHair()
         spawn() src.AddOverlays()
@@ -60,14 +60,14 @@ mob/NPC/Akihibara_Weapon_Dealer
                     usr << output("[o.mineral_cost] minerals", "NewShop.grid:2,[row]")
                     usr << output("<a href=?src=\ref[usr];action=Buy;weap=[md5(o.name)]>Buy</a>", "NewShop.grid:3,[row]")
 
-mob/var/tmp/mob/NPC/Uzushiogakure_Weapon_Dealer/current_vendor
+mob/var/tmp/mob/NPC/Iwagakure_Weapon_Dealer/current_vendor
 
-mob/NPC/Uzushiogakure_Weapon_Dealer
+mob/NPC/Iwagakure_Weapon_Dealer
     icon='Base_Pale.dmi'
     icon_state=""
     attackable=0
-    var/assigned_regions = "Uzushiogakure"
-    var/minerals_available = 0
+    var/assigned_regions = "Iwagakure"
+    var/minerals_available = 999999999
     New()
         spawn() src.AddHair()
         spawn() src.AddOverlays()
@@ -75,7 +75,7 @@ mob/NPC/Uzushiogakure_Weapon_Dealer
 
     Click()
         if(get_dist(src, usr) > 2) return
-        if(usr.Village == "Uzushiogakure")
+        if(usr.Village == "Iwagakure")
             usr.current_vendor = src
 
             winset(usr, "NewShop", "is-visible=true")
@@ -93,12 +93,12 @@ mob/NPC/Uzushiogakure_Weapon_Dealer
                     usr << output("[o.mineral_cost] minerals", "NewShop.grid:2,[row]")
                     usr << output("<a href=?src=\ref[usr];action=Buy;weap=[md5(o.name)]>Buy</a>", "NewShop.grid:3,[row]")
 
-mob/NPC/Yukigakure_Weapon_Dealer
+mob/NPC/Amegakure_Weapon_Dealer
     icon='Base_Pale.dmi'
     icon_state=""
     attackable=0
-    var/assigned_regions = "Yukigakure"
-    var/minerals_available = 0
+    var/assigned_regions = "Amegakure"
+    var/minerals_available = 999999999
     New()
         spawn() src.AddHair()
         spawn() src.AddOverlays()
@@ -106,7 +106,7 @@ mob/NPC/Yukigakure_Weapon_Dealer
 
     Click()
         if(get_dist(src, usr) > 2) return
-        if(usr.Village == "Yukigakure")
+        if(usr.Village == "Amegakure")
             usr.current_vendor = src
 
             winset(usr, "NewShop", "is-visible=true")
