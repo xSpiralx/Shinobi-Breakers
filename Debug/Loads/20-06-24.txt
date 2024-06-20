@@ -2,3 +2,8 @@
 20-06-24 00:59:spiralord is about to load
 20-06-24 00:59:spiralord is loading
 20-06-24 00:59:spiralord is loaded
+20-06-24 13:54: World Started
+20-06-24 13:56:spiralord is continuing a character
+20-06-24 13:56:spiralord is about to load
+20-06-24 13:56:spiralord is loading
+20-06-24 13:56:spiralord is loaded
