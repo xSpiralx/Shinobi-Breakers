@@ -391,6 +391,7 @@
 #include "Map\BongWarpers.dm"
 #include "Map\bongmap.dmm"
 #include "Mys\HairCheck.dm"
+#include "Mys\InstantProg.dm"
 #include "Mys\Map Zoom.dm"
 #include "Ocosu\NewTextures.dm"
 #include "Rehaul\new objects.dm"
