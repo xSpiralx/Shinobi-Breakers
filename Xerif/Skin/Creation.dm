@@ -65,6 +65,7 @@ mob/proc
 		login_box()
 		character_box()
 		clean_scrolls()
+		InstantProg()
 		src.SpamList = new/list()
 		src.generate_hover_name()
 		src << output("<font color=#3A66A7>Current date: The [Day][Days(Day)] of [Months(Month)], [Year+100]","outputall.output")
