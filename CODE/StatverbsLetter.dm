@@ -234,7 +234,7 @@ proc/get_stat_list(value)
 
 mob/var/featsOn = 0
 
-/mob/var/mature_age = 15
+/mob/var/mature_age = 12
 /mob/var/decline_age = 35
 /mob/var/decline_period = 20     /* 20 years, decline at 30, decline ends at 50 at 66% */
 /mob/var/percentage_decline = 34 /* the player loses 34% of their power at their prime, ending at 66% of their original strength */
