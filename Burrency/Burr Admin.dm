@@ -100,64 +100,65 @@ mob/proc/PerkRankCheck(perk)
         character_box.update_stats(src)
     src << "Your stats have been reset."
 
+
+archive
+	var/incentive_bonus = 85
+	var/incentive_ryo = 5000
+
+mob/Admin3/verb
+	Change_Incentive_Bonus()
+		set category = "Admin"
+		var/choice = input(usr,"What would you like to change incentive bonus to?","Current Bonus: [archive.incentive_bonus]") as num
+
+		if(isnum(choice) && choice > 0)
+			archive.incentive_bonus = choice
+			Admin_Logs+="<br>[usr]([usr.key]) adjusted the global incentive bonus to [archive.incentive_bonus]."
+		world << "The global incentive bonus has been changed."
+
 /mob/proc/starting_incentive_system()
-    if(OriginsBonus)
-        src << "You've already claimed your Starting Incentive."
-        return
+	if(lifetime_progress_points >= archive.incentive_bonus)
+		src << "You are already at the golabl incentive bonus [archive.incentive_bonus] points"
+		return
 
-    if(lifetime_progress_points >= 850)
-        src << "You've got too much PP to get your bonus."
-        return
+	switch(input("By typing 'I Agree' you're agreeing to good luck and have fun"))
+		if("I Agree")
+			// Adjust lifetime_progress_points and progress_points
+			progress_points += archive.incentive_bonus - lifetime_progress_points
+			lifetime_progress_points = archive.incentive_bonus
 
-    switch(input("By typing 'I Agree' you're agreeing to claim your Starting Incentive and get Stat reset, and will not be able to claim another one on this character if the incentive increases"))
-        if("I Agree")
-            // Reset stats before applying the incentive
-            stat_reset()
+			// Adjust stat_points
+			// you start with 15
+			stat_points = archive.incentive_bonus - src.total_stats() + 15
 
-            var needed_progress_points = 85 - lifetime_progress_points
-            var total_progress_points = progress_points + needed_progress_points
-            var total_stat_points = 85 + 15
+			// Set the bonus flag and give ryo
+			if(!OriginsBonus)
+				var/obj/items/Ryo/hasryo
+				for(var/obj/items/Ryo/R in contents)
+					hasryo = R
+				if(hasryo)
+					hasryo.amount += archive.incentive_ryo
+					hasryo.Update()
+				else
+					var/obj/items/Ryo/R = new(src)
+					R.amount = archive.incentive_ryo
+					R.Update()
+					src.contents += R
+				if(!locate(/obj/items/Clothing/Headband/) in src.contents)
+			    	// Give the player a headband
+					new/obj/items/Clothing/Headband(src)
+				src << "You received [archive.incentive_ryo] ryo."
 
-            // Adjust lifetime_progress_points and progress_points
-            lifetime_progress_points = 85
-            progress_points = total_progress_points
+			OriginsBonus = 1
+			src << output("You've been rewarded point(s) and received a headband as part of an incentive.", "outputall.output")
 
-            // Adjust stat_points
-            stat_points = total_stat_points
+			if(character_box)
+				character_box.update_stats(src)
 
-            // Set the bonus flag and give ryo
-            OriginsBonus = 1
-
-            var/obj/items/Ryo/hasryo
-            for(var/obj/items/Ryo/R in contents)
-                hasryo = R
-
-            if(hasryo)
-                hasryo.amount += 5000
-                hasryo.Update()
-            else
-                var/obj/items/Ryo/R = new(src)
-                R.amount = 5000
-                R.Update()
-                src.contents += R
-
-            // Give the player a headband
-            new/obj/items/Clothing/Headband(src)
-
-
-            src << output("You've been rewarded point(s) and received a headband as part of an incentive.", "outputall.output")
-
-            if(character_box)
-                character_box.update_stats(src)
-
-            src << "You've successfully claimed your Starting Incentive and received 3000 ryo."
-
-            // Update character stats if there's a character box
-            if(character_box)
-                character_box.update_stats(src)
-
-        else
-            src << "You've selected to not get your Starting Incentive or did not type 'I Agree' exactly as shown."
+			// Update character stats if there's a character box
+			if(character_box)
+				character_box.update_stats(src)
+		else
+			src << "You've selected to not get your Incentive or did not type 'I Agree' exactly as shown."
 
 /mob/verb
     Starting_Incentive()
