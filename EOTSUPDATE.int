@@ -2,7 +2,7 @@
 /*
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 0.750
-LAST_COMPILE_TIME: 1718907912
+LAST_COMPILE_TIME: 1718996192
 DIR: Burrency Burrency\backup CODE Icons IssacAdd Map Soto Soto\automated_missions warring state map files warring state map files\NewIcons Xerif Xerif\Skin 
 PACKAGE_RSC_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE_rsc.zip
 AUTO_FILE_DIR: ON
@@ -12,9 +12,9 @@ PACKAGE_DME_NAME: C:\Users\18108\Desktop\NRP Edited - Copy\EOTSUPDATE\EOTSUPDATE
 LAST_COMPILE_VERSION: 515.1640
 PACKAGE_TYPE: 0
 PACKAGE_DME_START: 
-WINDOW: Map\bongmap.dmm;warring state map files\NewIcons\intermap connections.dm;Burrency\backup\2023 Warring Map.dmm;Xerif\Skin\Skin.dm;CODE\Incentive.dm;warring state map files\Code.dm;CODE\Admin.dm;CODE\Crafting.dm;Soto\NewWeaponSuppliers.dm;Burrency\Burr Admin.dm;Soto\automated_missions\_mission.dm
+WINDOW: Map\bongmap.dmm;warring state map files\NewIcons\intermap connections.dm;Burrency\backup\2023 Warring Map.dmm;Xerif\Skin\Skin.dm;CODE\Incentive.dm;warring state map files\Code.dm;CODE\Admin.dm;CODE\Crafting.dm;Soto\NewWeaponSuppliers.dm;Soto\NewPerkTree_-_Copy.dm;Burrency\Burr Admin.dm
 PACKAGE_DME_INFO: 
-FILE: Map\bongmap.dmm
+FILE: Burrency\Burr Admin.dm
 MAP_INSTANCE_MODE: copy
 PACKAGE_DMB_NAME: C:\Users\18108\Desktop\NindoHF.zip
 PACKAGE_DME_DEMO: 

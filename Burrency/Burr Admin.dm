@@ -105,7 +105,7 @@ mob/proc/PerkRankCheck(perk)
         src << "You've already claimed your Starting Incentive."
         return
 
-    if(lifetime_progress_points >= 60)
+    if(lifetime_progress_points >= 70)
         src << "You've got too much PP to get your bonus."
         return
 
@@ -114,12 +114,12 @@ mob/proc/PerkRankCheck(perk)
             // Reset stats before applying the incentive
             stat_reset()
 
-            var needed_progress_points = 60 - lifetime_progress_points
+            var needed_progress_points = 70 - lifetime_progress_points
             var total_progress_points = progress_points + needed_progress_points
-            var total_stat_points = 60 + 15
+            var total_stat_points = 70 + 15
 
             // Adjust lifetime_progress_points and progress_points
-            lifetime_progress_points = 60
+            lifetime_progress_points = 70
             progress_points = total_progress_points
 
             // Adjust stat_points
@@ -133,11 +133,11 @@ mob/proc/PerkRankCheck(perk)
                 hasryo = R
 
             if(hasryo)
-                hasryo.amount += 3000
+                hasryo.amount += 5000
                 hasryo.Update()
             else
                 var/obj/items/Ryo/R = new(src)
-                R.amount = 3000
+                R.amount = 5000
                 R.Update()
                 src.contents += R
 
