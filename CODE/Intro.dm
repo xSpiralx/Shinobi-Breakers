@@ -4,7 +4,7 @@ var/dmifont/Arial7pt/cinefont = new
 mob/var/tmp/obj/TextName=new
 mob/var/tmp/obj/nameInText
 mob/proc/generate_hover_name()
-	nameInText = drawfont.QuickText(src, "[name]", "#FFFFFF", 1, layer = MOB_LAYER+1)
+	nameInText = drawfont.QuickText(src, "[name]", "#FFFFFF", 1, layer = 999)
 
 client
 	MouseEntered(mob/M)
@@ -14,11 +14,11 @@ client
 		if(!M.nameInText) return
 		if(!mob) return
 		//if(!mob.TextName)
-		mob.TextName=image(null,M,null,layer=MOB_LAYER+1)
+		mob.TextName=image(null,M,null,layer=999)
 		mob.TextName.pixel_y = -32
 		mob.TextName.pixel_x = ((length(mob.getStrangerNameNoHTML(M)) * -4) / 2) + 11
-		mob.TextName.layer=MOB_LAYER+1
-		var obj/o = drawfont.QuickText(src, "[mob.getStrangerNameNoHTML(M)]", "#FFFFFF", 1, layer = MOB_LAYER+1)//M.nameInText
+		mob.TextName.layer=999
+		var obj/o = drawfont.QuickText(src, "[mob.getStrangerNameNoHTML(M)]", "#FFFFFF", 1, layer = 999)//M.nameInText
 		//o.plane = 1
 		mob.TextName.overlays+=o
 		src<<mob.TextName
